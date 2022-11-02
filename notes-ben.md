@@ -43,4 +43,6 @@ Non, y'a trop de technos dispo pour être compétent en full stack.
 - efficient :
     Au même titre que quelqu'un d'efficace, quelqu'un d'efficient est quelqu'un étant en capacité de resoudre les tâches dont il a la charge à la difference que quelqu'un d'efficient fera le maximum d'effort pour ne pas avoir à en faire
 
+# Est-ce qu'avoir des compétences signifie être compétent
 
+Non, quelqu'un disposant de compétences peut ne pas réussir à les mettre en oeuvre
