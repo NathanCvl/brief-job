@@ -59,3 +59,7 @@ Maintenir un logiciel
 Corriger des bugs, débugger du code et s'assurer de la mise à jour des systèmes 
 Déployer un projet et évaluer les retours utilisateurs
 S'assurer de la mise à jour du programme
+
+# Les évolutions
+
+From développeur blockchain to ingenieur blockchain
