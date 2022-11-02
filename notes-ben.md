@@ -46,3 +46,16 @@ Non, y'a trop de technos dispo pour être compétent en full stack.
 # Est-ce qu'avoir des compétences signifie être compétent
 
 Non, quelqu'un disposant de compétences peut ne pas réussir à les mettre en oeuvre
+
+# Quelle est la différence entre un développeur et un Enginieur Logiciel
+
+- Un développeur doit coder
+- Un ingénieur logiciel doit assurer l'entierté du cycle de développement
+Développer du code bien fait, le tester, et faire du code le plus efficient possible<br>
+Ecrire de la documentation technique<br>
+Intégrer des composants logiciels dans un logiciel de façon complétement fonctionnel<br>
+S'assurer du bon déroullement du développement
+Maintenir un logiciel 
+Corriger des bugs, débugger du code et s'assurer de la mise à jour des systèmes 
+Déployer un projet et évaluer les retours utilisateurs
+S'assurer de la mise à jour du programme
