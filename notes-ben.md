@@ -135,3 +135,16 @@ salariés en cas de cooptation par exemple.<br>
 
 La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
 Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
+
+# E-reputation
+
+# Qu'est ce que la e-reputation, c'est quoi l'identité, c'est quoi la réputation
+
+L'identité est un nom sur un visage relié à des informations
+La réputation est un ensemble de faits rapportés à une identité
+La e-réputation est la réputation sur Internet
+
+# Que dit Google sur vous
+
+Absolument rien (perso).
+Google peut référencer des pages concernant une identité, et donc compromettre votre annonimité
