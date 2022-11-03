@@ -135,3 +135,43 @@ salariés en cas de cooptation par exemple.<br>
 
 La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
 Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
+
+# E-reputation
+
+# Qu'est ce que la e-reputation, c'est quoi l'identité, c'est quoi la réputation
+
+L'identité est un nom sur un visage relié à des informations<br>
+La réputation est un ensemble de faits rapportés à une identité<br>
+La e-réputation est la réputation sur Internet<br>
+Il est très important de partionner son identité sur Internet et son identité IRL<br>
+Et de veillé à ce que notre identité ne soit pas reliable à la personne réele physique<br>
+
+
+# Que dit Google sur vous
+
+Absolument rien (perso).<br>
+Google peut référencer des pages concernant une identité, et donc compromettre votre annonimité<br>
+
+# Quelles traces est-il possible de laisser sur Internet
+
+Il est possible de laisser tout type de traces sur Internet, tout dépends du contexte<br>
+du traitement qui sera effectué sur la donnée, globalement, les cookies sont un excellent<br>
+exemple de trace, il est possible de définir des profils selon les cookies stockés sur quels site<br>
+Etc, en bref, éviter au maximum de ne pas faire attention à ce qu'on fait selon le masque utilisé<br>
+
+# Definition de personal branding
+
+Le personal branding est le fait de faire de son nom une marque<br>
+maitriser son nom afin de suciter l'intêret d'un tiers<br>
+
+# Comment peut-on travailler son personal branding
+
+Pour travailler son personnal branding il est possible de passer par LinkedIn<br>
+Si votre profil LinkedIn est très complet et bien sourcé, il sera alors bien<br>
+référencé, avec une bonne indexation, votre profil LinkedIn peut-être bien référencé sur Google<br>
+Un autre exemple de personnal branding serait de laisser un maximum de trace positive sur Internet.<br>
+Trouver un moyen de relier votre identité à votre pseudo sur Stackoverflow si vous êtes quelqu'un qui poste beaucoup<br>
+sur StackOverflow.<br>
+Ou bien laisser une trace de votre passage sur un repo github OpenSource peut-être un bon moyen de travailler son personnal
+branding.<br>
+Le tout étant d'être actif (positivemment ou négativement, tant que vous vous créer un personnage remarquable)<br>
