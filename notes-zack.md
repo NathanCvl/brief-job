@@ -1,7 +1,7 @@
 # Blockchain
 
 
-## Objectifs : 
+## Objectifs :
 
 - Définir un projet professionnel clair et précis à court, moyen et long terme.
 	•	Élaborer une stratégie d’insertion professionnelle
@@ -13,8 +13,9 @@
 
 Étape 1 - Les métiers :
 
-	•	Blockchain Developer :
-	•	Software Architect
+- Blockchain Developer
+  
+- Software Architect
 
 
 
@@ -29,7 +30,7 @@ Un développeur blockchain est avant tout un développeur informatique qui est s
 
 
 
-	- analystes de données blockchain :
+	-Data analayste blockchain :
 
 Les analystes de données blockchain sont chargés de collecter et d’analyser les données relatives à la blockchain. Ils doivent être capables de comprendre les différents types de données collectées et de les interpréter correctement. De plus, ils doivent être à l’aise avec les outils et les techniques utilisés pour collecter et analyser les données.
 		
@@ -49,17 +50,19 @@ Les experts en cybersécurité sont chargés de protéger les réseaux et les or
 	•	Quels sont les outils propres à chaque métier ? 
 	•	
 	
-    Pour travailler dans le secteur de la blockchain, il est nécessaire de disposer de certaines compétences et connaissances. En premier lieu, il est important d’avoir une solide compréhension des concepts de base de la blockchain et du fonctionnement des systèmes distribués. De plus, les professionnels de la blockchain doivent être à l’aise avec les outils et technologies de la blockchain, notamment les smart contracts, les DApps et les plateformes de développement de la blockchain. En outre, les professionnels de la blockchain doivent avoir un esprit analytique et être capable de résoudre des problèmes complexes. Ils doivent également être capables de communiquer efficacement leurs idées à un public large. Enfin, les professionnels de la blockchain doivent être en mesure de travailler de manière collaborative avec d’autres professionnels de la blockchain et de différents domaines.
+    Pour travailler dans le secteur de la blockchain, il est nécessaire de disposer de certaines compétences et connaissances. En premier lieu, il est important d’avoir une solide compréhensiondes concepts de base de la blockchain et du fonctionnement des systèmes distribués. De plus, les professionnels de la blockchain doivent être à l’aise avec les outils et technologies de la blockchain, notamment les smart contracts, les DApps et les plateformes de développement de la blockchain. En outre, les professionnels de la blockchain doivent avoir un esprit analytique et être capable de résoudre des problèmes complexes. Ils doivent également être capables de communiquer efficacement leurs idées à un public large. Enfin, les professionnels de la blockchain doivent être en mesure de travailler de manière collaborative avec d’autres professionnels de la blockchain et de différents domaines.
 
-	Quels sont les traits de caractère / qualités nécessaires pour chaque métier ?
-	
-	La débrouillardise et la polyvalence sont deux autres compétences indispensables à cette profession.  La rigueur et la logique sont aussi au cœur de ce métier. Dans l’informatique, des erreurs minimes peuvent avoir des conséquences dramatiques 			pour une entreprise, vous devrez donc être rigoureux afin de pouvoir offrir un outil de travail fiable et efficace pour vos collègues et votre direction.
+- Quels sont les traits de caractère / qualités nécessaires pour chaque métier ?
+La débrouillardise et la polyvalence, esprit d’équipes sont des compétences indispensables à cette profession.
+  - La rigueur et la logique sont aussi au cœur de ce métier. Dans 
+  l’informatique, des erreurs minimes peuvent avoir des conséquences dramatiques 
+  pour une entreprise, vous devrez donc être rigoureux afin de pouvoir offrir un outil de travail fiable et efficace pour vos collègues et votre direction.
+  Finalement, il est nécessaire d’être réactif et créatif pour répondre aux besoins d’une clientèle et trouver des solutions rapidement.
 
-	Finalement, il est nécessaire d’être réactif et créatif pour répondre aux besoins d’une clientèle et trouver des solutions rapidement.
-	
-	Est-il possible de devenir un Développeur Fullstack “compétent” en 2022 / 2023 ? Pourquoi ? > Non, puisque le full stack aura un éventail trop élever de chose à gérer (front end et back end) avec des compétences nécessitant plusieurs specialisations très poussés dans chaque domaine.  
+- Est-il possible de devenir un Développeur Fullstack “compétent” en 2022 / 2023 ? Pourquoi ? > Non, puisque le full stack aura un éventail trop élever de chose à gérer (front end et back 
+end & DevOps) avec des compétences nécessitant plusieurs specialisations très poussées dans chaque domaine.  
 
-	•	Que vous inspirent ces mots ? (Développez) :
+	•	Que vous inspirez ces mots ? (Développez) :
 	•	maîtriser
 	•	expert
 	•	compétent
@@ -80,13 +83,13 @@ Les experts en cybersécurité sont chargés de protéger les réseaux et les or
 	•	Les clients finaux (Freelancing)
 	•	Les agences (digitales, WEB, marketing ...)
 
-    Questions :
+Questions :
 	•	Qu’est-ce qu’on attend de vous dans ce type d’entreprise ?
 	•	
-	•	Startup: développement et dépannage
-	•	Grand groupe: être en veille en terme de nouveauté technologique, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
+	•	Startup : développement et dépannage
+	•	Grand groupe: être en veille en termes de nouveauté technologique, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
 	•	cabinet de conseil: être en veille technologique, utilisation des dernières technologies, être force de proposition pour l’update des outils informatiques
-	•	ESN:  être en veille technologique, utilisation des dernières technologies, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
+	•	ESN :  être en veille technologique, utilisation des dernières technologies, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
 	•	Client finaux: développement rapide
 	•	Les agences: développement rapide, et outils fonctionnels
 	•	Quels sont les facteurs de succès dans ce type d’entreprises ?
@@ -130,7 +133,7 @@ La préparation aux entretiens d’embauches :
 	•	Les plateformes d'entraînement (codewars, coding game, etc …)
 	•	Coaching - Mentor
 	•	Développement personnel
-	•	Re-formulation des questions
+	•	Reformulation des questions
 	•	Test de personnalité (https://www.assessfirst.com/fr/science/shape/)/https://www.16personalities.com/fr/test-de-personnalite  
 	•	Quelles pourraient être les questions “déstabilisantes” en entretien d’embauche ? Citer vos qualités vs vos défauts, pourquoi vous et pas un autre?
 	•	Quelles serait votre tape loop de réponse ?
@@ -143,7 +146,7 @@ Cette interview s’articulera autour de 3 grandes étapes :
 	0.	Préparation de l’interview
 	0.	Réalisation de l’interview
 	0.	Bilan et retranscription
- 
+
 
 
 Étape 6 - Comment postuler ?
@@ -161,7 +164,7 @@ Lister des offres d’emploi pertinentes pour les métiers présentés
 
 Mettre en place un système de veille persistante (recherche passive)
 	•	Système d’alerte par e-mail par exemple
-	•	Configuration de Linkedin / Glassdoor 
+	•	Configuration de Linkedin / Glass door 
 
 
 Étape 7 - Présentation orale
@@ -178,7 +181,7 @@ Un repo Github pour chaque groupe contenant : 
 	•	Slide de présentation
 	•	Retranscription des interviews (les vidéos / audios sont plus que bienvenus)
 	•	Une documentation Synthèse format Markdown (qui chatouille la rétine)
-	•	Une liste les 10 offres d’emploi sélectionnées
+	•	Une liste les 10 offres d’emploi sélectionnées.
 
 Modalités Pédagogiques : 
 
