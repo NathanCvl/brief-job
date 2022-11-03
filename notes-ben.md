@@ -119,3 +119,19 @@ Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'en
 L'entreprise effectue une verfication des priorités d'embauche au sein de l'entreprise<br>
 si des employés sont prioritaire pour une réambauche, l'entreprise privilegiera la réambauche<br>
 de ces employés.<br>
+
+- La rédaction et diffusion et offre d'emploi
+
+L'entreprise rédige une offre d'emploi et la poste par différent moyen (Internet la plupart du temps)
+
+...
+
+# Qui dans l'entreprise est impliqué dans le processus de Recrutement
+
+Le processus de recrutement implique les DRH de l'entreprise, potentiellement les managers et aussi les<br>
+salariés en cas de cooptation par exemple.<br>
+
+# Quels peuvent être les delais de recrutement
+
+La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
+Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
