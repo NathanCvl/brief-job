@@ -71,9 +71,13 @@ Aussi, la réactivité et la créativité sont de très bonne choses afin de gé
 tels que des bugs ou des demandes d'ajout de fonctionnalités, la réactivité est un point essentiel pour<br>
 un développeur.<br>
 
-## Architecte Logiciel (unavailable atm) <a id='software-ingeneer'>
+## Architecte Logiciel (unavailable atm) <a id='software-ingeneer'></a>
 
-<br><br><br>
+To fill<br>
+
+To fill<br>
+
+To fill<br>
 
 ## Est-il possible de devenir un développeur FuLlStack "compétent" en 2022/2023
 
@@ -81,3 +85,27 @@ Il est absolument inenvisageable d'etre développeur FullStack compétent en 202
 car le simple fait de dire "FullStack" signifie connaitre toutes les technologies<br>
 disponibles dans une domaine, hors, à l'heure actuelle, il existe une bien trop large gamme<br>
 de technologies disponibles afin d'être compétent dans toutes ces technologies.<br>
+
+## Que vous inspirent ces mots 
+
+...
+
+## Est-ce qu'avoir des compétences est synonyme d'être compétent
+
+Non, il est possbile d'avoir des compétences, cependant si on ne sait pas les appliquer<br>
+nous ne serons pas compétent.<br>
+
+## Quelle est la différence entre Software Ingeneer et Développeur
+
+Un ingenieur logiciel doit assurer l'entierté du cycle de vie d'une applicarion<br>
+il doit assurer chaques étapes du processus de développement de l'application tels que :
+
+- Concevoir l'application
+- Produire du code fiable et optimisé
+- Ecrire de la documentation technique par rapport à l'application
+- Intégre des composants logiciels au sein d'un environnement de façon complétement fonctionnelle
+- S'assure que le développement de l'application se fait correctement
+- Maintenir l'application / projet dont il a la charge
+- Débugger du code
+- S'assure de la mise à jour du système
+- Deploiement du projet et évaluation des retours utilisateurs
