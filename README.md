@@ -129,7 +129,24 @@ L'architecte blockchain peut évoluer en Jeff Bezos
 
 # Etape 2 : Les types d'entreprise <a id='step-two'></a>
 
-On going<br>
+## Les grands groupes
+
+### Qu'est ce qui est attendu
+
+Ce qui est attendu au sein des grands groupes en terme de technicité est<br>
+d'être compétent, c'est à dire d'exercer une veille casi permanantes quant aux<br>
+technologies nouvelles, être en mesure de maintenir un système et de faire preuve<br>
+d'une réactivit accrue afin de gérer les situations imprévuees.<br>
+
+## Les cabinets de conseils
+
+### Qu'est ce qui est attendu
+
+Ce qui est attendu pour travailler au sein d'un cabinet de conseil est<br>
+d'exercer une veille permanantes quants aux nouvelles technologies,<br>
+c'est à dire, se tenir au courant de tout ce qui concerne de près<br>
+ou de loin une technologie afin d'établir une proposition<br>
+de solution la plus adapatée possible à la demande client<br>
 
 # Etape 3 : L'éthique <a id='step-three'></a>
 
@@ -262,7 +279,7 @@ maitriser son nom afin de suciter l'intêret d'un tiers<br>
 
 Pour travailler son personnal branding il est possible de passer par LinkedIn<br>
 Si votre profil LinkedIn est très complet et bien sourcé, il sera alors bien<br>
-référencé, avec une bonne indexation, votre profil LinkedIn peut-être bien référencé sur Google<br>
+référencé; avec une bonne indexation, votre profil LinkedIn peut-être bien référencé sur Google<br>
 Un autre exemple de personnal branding serait de laisser un maximum de trace positive sur Internet.<br>
 Trouver un moyen de relier votre identité à votre pseudo sur Stackoverflow<br>
 si vous êtes quelqu'un qui poste beaucoup sur StackOverflow.<br>
