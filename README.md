@@ -6,6 +6,7 @@
 - <a href='#step-one'>Les metiers</a>
   - <a href='#blockchain-developer'>Développeur Blockchain</a>
   - <a href='#software-ingeneer'>Architecte Logiciel</a>
+- <a href='#step-two'>Les types d'entreprise</a>
 
 # Etape 1 : Les métiers <a id='step-one'></a>
 
@@ -124,4 +125,16 @@ Le développeur blockchain peut évoluer en Ingénieur Blockchain
 ## Quelles sont les principales évolution du Métier d'Architecte Logiciel
 
 L'architecte blockchain peut évoluer en Jeff Bezos
+
+# Etape 2 : Les types d'entreprise <a id='step-two'></a>
+
+On going<br>
+
+# Etape 3 : L'éthique <a id='step-three'></a>
+
+## Y'a t-il des domaines dans lesquels vous ne travailleriez pas, car à l'encontre de vos principes
+
+## Selon Zack
+
+### Si Pornhub vous proposez un poste de développeur, accepteriez-vous
 
