@@ -197,7 +197,7 @@ Le recrutement par cooptation consiste à soliciter les salariés au sein d'une 
 de rechercher de nouveaux employés provennnant de l'entourage du salarié<br>
 Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'entreprise remplit ses effectifs.<br>
 
-# Quelles sont les différentes étapes préalables à l'embauche
+## Quelles sont les différentes étapes préalables à l'embauche
 
 - Les vérifications
 
@@ -208,3 +208,13 @@ de ces employés.<br>
 - La rédaction et diffusion et offre d'emploi
 
 L'entreprise rédige une offre d'emploi et la poste par différent moyen (Internet la plupart du temps)<br>
+
+## Qui dans l'entreprise est impliqué dans le processus de recrutement
+
+Le processus de recrutement implique les Directeur Ressources Humaines de l'entreprise,<br> 
+potentiellement les managers et aussi les salariés en cas de cooptation par exemple.<br>
+
+## Quels peuvent être les delais de recrutement
+
+La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
+Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
