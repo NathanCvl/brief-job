@@ -132,28 +132,72 @@ Non, car il ne peut pas savoir tout faire et faire le travail de 2 personnes com
 
 **1)** Qu’est-ce qu’on attend de vous dans ce type d’entreprise ?
 
-- On attend de nous que sur le point **technique** que l'on soit compétent au poste au quelle nous somme, sur le plan **social** il attendent de nous que l'on soit **sympathique**, a l'écoute, attentif de ce que pourrait dire nos collègues 
+- Zack: 
+	- Grand groupe: être en veille en terme de nouveauté technologique, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique.
+
+	- cabinet de conseil: être en veille technologique, utilisation des dernières technologies, être force de proposition pour l’update des outils informatiques
+
+- Bastien: 
+	- On attend de nous que sur le point **technique** que l'on soit compétent au poste au quelle nous somme, sur le plan **social** il attendent de nous que l'on soit **sympathique**, a l'écoute, attentif de ce que pourrait dire nos collègues 
 
 **2)** Quels sont les facteurs de succès dans ce type d’entreprises ?
-- **L'argent**
-- **La gestion**
-- **Le marketing et les ventes**
-- **Les personnes**
-- **Les produits et services**
-- **Le processus et les systèmes**
+
+
+- Bastien:
+	- **L'argent**
+	- **La gestion**
+	- **Le marketing et les ventes**
+	- **Les personnes**
+	- **Les produits et services**
+	- **Le processus et les systèmes**
+
+- Zack:
+  
+    - Une bonne communication interne et externe
+    - Une bonne organisation structurelle 
+    - Un matériel et des installations de qualité
+    - Un personnel efficace et bien formé
+
+
 
 **3)** Est-ce que vous devez être un spécialiste ou être polyvalent pour réussir ? Développez.
-- Je pense qu'il faut un peut des deux pour réussir, être spécialiste dans un "domaine restreint". Tout en étant polyvalent (généraliste). 
+
+- Zack:
+	- grand groupe: specialiste, en minimisant au maximum les risques lies à la productivité
+
+- Bastien:
+	- Je pense qu'il faut un peut des deux pour réussir, être spécialiste dans un "domaine restreint". Tout en étant polyvalent (généraliste). 
 
 **4)** Comment est organisée une journée pour un développeur dans ce type d’entreprise (en moyenne) ?
 
--  9h début de journée
-- 9h10 Café pour commencer
-- 9h30 Meeting matinal
-- 10h30 - 12h Bosser sur le projet actuel 
-- 12h30 Pause déjeuner 
-- 13h30 Bosser sur le projet actuel 
-- 15h30 Meeting après-midi 
--  16h fin de journée 
+- Bastien:
+	-  9h début de journée
+	- 9h10 Café pour commencer
+	- 9h30 Meeting matinal
+	- 10h30 - 12h Bosser sur le projet actuel 
+	- 12h30 Pause déjeuner 
+	- 13h30 Bosser sur le projet actuel 
+	- 15h30 Meeting après-midi 
+	-  16h fin de journée 
+
+- Zack:
+	- Il organise sa journée en fonction des projets
+	- des tâches qui lui sont attribuées par supérieurs hiérarchique
+	- Selon l’avancement des projets, ces tâches sont priorisées en fonction des besoins du client, les bugs sont corrigés et certaines lignes de codes réécrites afin qu’elles soient plus propres
+
 	
 **5)** Quels sont les spécificités de ce type de structure dans votre quotidien comparé aux autres types d’entreprise (habillement, diversité des missions, choix des outils, organisation) ?
+
+- Zack:
+
+- Grands groupes: 
+- Habillement à l'image du groupe (facebook casual wear vs dassault industries costume)
+- Diversité des missions (Conseil + Mise en pratique)
+- Choix des outils (Dernière technologie, software et hardware)
+- Organisation (respect des conventions - normes imposé par l'entreprise, règles, structure organisationnel plus rigide - marge de manoeuvre limité)
+
+- Cabinets de conseil:
+- Habillement costume
+- Diversité des missions (ex. Conseil auprès des banques sur la transfomation digital - usage de la blockchain)
+- Choix des outils (Dernière technologie, software et hardware)
+- Organisation (possibilité de créer de nouvelle convention - Créateur bitcoin (Satochi Nakamoto), structure organisationnel plus souple)
