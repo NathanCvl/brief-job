@@ -58,6 +58,17 @@ performant dans le milieu de la blockchain, telles que celles qui suivent :
 - Développer une solution adaptée à la demande client
 - Être capable de tester le code développé
 - Fournir une documentation technique à la solution adaptée dévelopée préalablement
+- Faire preuve de polyvalence afin de s'adapter à toutes les situations auxquelles il sera confronté
 - Collaborer avec les différents corps de métiers composant la blockchain et en comprendre les enjeux
+
+## Quels sont les traits de caractère / qualités nécessaire pour être Blockchain Developer
+
+Un développeur Blockchain se doit d'être flexible afin de pouvoir s'adapter aux défis qu'il sera<br>
+amené à rencontrer, avoir un esprit logique est une très bonne chose pour travailler en tant que<br>
+développeur, la rigueur est aussi une trait de caractère nécessaire afin de mener à bien les projets<br>
+actuellement en cours de développement.<br>
+Aussi, la réactivité et la créativité sont de très bonne choses afin de gérer des situations inattendues<br>
+tels que des bugs ou des demandes d'ajout de fonctionnalités, la réactivité est un point essentiel pour<br>
+un développeur.<br>
 
 ## Architecte Logiciel (unavailable atm) <a id='software-ingeneer'>
