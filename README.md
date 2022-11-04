@@ -7,6 +7,7 @@
   - <a href='#blockchain-developer'>Développeur Blockchain</a>
   - <a href='#software-ingeneer'>Architecte Logiciel</a>
 - <a href='#step-two'>Les types d'entreprise</a>
+- <a href='#step-four'>Le recrutement</a>
 
 # Etape 1 : Les métiers <a id='step-one'></a>
 
@@ -136,5 +137,62 @@ On going<br>
 
 ## Selon Zack
 
-### Si Pornhub vous proposez un poste de développeur, accepteriez-vous
+### Si PornHub vous proposez un poste de développeur, accepteriez-vous
 
+Oui, si le salaire est suffisamment elevé, si il est possible de travailler sous un pseudonyme afin de ne<br>
+pas compromettre une carrière future ou de porter atteinte à mon entourage.<br>
+
+### Si une entreprise de drones militaire vous proposez un poste de développeur, accepteriez-vous
+
+Non, à cause de mes convictions personnelles.<br
+Je souhaite aussi être libre de développer mes propres outils sans contraintes de NDA ou<br> tout autre close de confidentialités.<br>
+Et potentiellement la mise en danger de ma personne, en cas de fuite de données personnelles.<br>
+
+Je refuserai également de travailler pour une société proposant du contenu 'border line',<br>
+revisoniste, ou prônant une idéologie suprématiste.
+
+## Selon Benjamin
+
+### Si PornHub vous proposez un poste de dévelopeur, accepteriez-vous
+
+Oui, l'industrie du sexe ne me pose pas de dilème moral.<br>
+
+### Si une entreprise de drones militaire vous proposez un poste de développeur, accepteriez-vous
+
+Non, je ne suis pas contre les armes<br>
+Cependant, une entreprise ayant pour vocation de développer des drones à des fins militaire<br>
+n'est pas un environnement dont je voudrais être un mayon.<br>
+C'est contraire à mes principes que de créer des armes, même si je pense que les armes sont utiles.<br>
+
+# Etape 4 : Le recrutement <a id='step-four'></a>
+
+## Comment travaillent les recruteurs en 2022/2023
+
+On going
+
+## Quels sont les principaux outils des recruteurs
+
+Les recruteurs utilisent différents outils afin de recruter de nouveaux employés tel que les suivants :
+
+- Le recrutement en ligne<br>
+
+Le recrutemeent en ligne est une part importante du recrutement de nouveaux éléments au sein d'une entreprise.<br>
+L'envergure d'Internet en fait le meilleur candidat afin de propager des offres d'emploi.<br>
+
+- Les cabinets de recrutement<br>
+
+Il arrive qu'une entreprise souhaite en engager une autre afin de s'occuper de l'aspect recrutement,<br>
+les cabinets de recrutements sont spécialisés dans certains domaines et sont utilisé pour trouver un <br>
+nouvel élément avec un haut niveau de compétence.
+
+- Le recrutement interne<br>
+
+Certaines entreprises privilègient la promotion d'un employé afin de créer un nouveau poste à responsabilités.<br>
+De ce fait, grace à cette façon de faire, l'employé à une meilleure connaissance de l'environnement qu'un élément
+externe.<br>
+
+- Le recrutement pas cooptation
+
+Le recrutement par cooptation consiste à soliciter les salariés au sein d'une entreprise afin<br>
+de rechercher de nouveaux employés provennnant de l'entourage du salarié<br>
+Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'entreprise remplit ses effectifs.<br>
