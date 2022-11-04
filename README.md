@@ -109,3 +109,10 @@ il doit assurer chaques étapes du processus de développement de l'application 
 - Débugger du code
 - S'assure de la mise à jour du système
 - Deploiement du projet et évaluation des retours utilisateurs
+
+Alors qu'un développeur ne doit gérer qu'une partie de ces aspects, comme :
+
+- Conception de l'application
+- La production de code fiable et optimisé
+- Débugger du code
+- Maintenir l'application
