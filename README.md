@@ -238,3 +238,22 @@ La réputation est un ensemble de faits rapportés à une identité<br>
 La e-réputation est la réputation sur Internet<br>
 Il est très important de partionner son identité sur Internet et son identité IRL<br>
 Et de veiller à ce que notre identité ne soit pas reliable à la personne physique<br>
+
+## Que dit Google sur vous ?
+
+### Selon Benjamin 
+
+Rien.
+
+# Quelles traces est-il possible de laisser sur Internet
+
+Il est possible de laisser tout type de traces sur Internet, tout dépends du contexte<br>
+du traitement qui sera effectué sur la donnée, globalement, les cookies sont un excellent<br>
+exemple de trace, il est possible de définir des profils selon les cookies stockés sur quels site<br>
+Etc, en bref, faire le plus attention ce qu'on fait selon l'identité choisie<br>
+
+## Définissez le terme 'Personal Branding'
+
+Le personal branding est le fait de faire de son nom une marque<br>
+maitriser son nom afin de suciter l'intêret d'un tiers<br>
+
