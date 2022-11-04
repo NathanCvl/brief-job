@@ -236,8 +236,8 @@ On going
 L'identité est un nom sur un visage relié à des informations<br>
 La réputation est un ensemble de faits rapportés à une identité<br>
 La e-réputation est la réputation sur Internet<br>
-Il est très important de partionner son identité sur Internet et son identité IRL<br>
-Et de veiller à ce que notre identité ne soit pas reliable à la personne physique<br>
+Il est très important de partionner son identité sur Internet et son identité IRL (In Real Life)<br>
+Et de veiller à ce que notre identité ne soit pas rattachable à la personne physique<br>
 
 ## Que dit Google sur vous ?
 
@@ -257,3 +257,15 @@ Etc, en bref, faire le plus attention ce qu'on fait selon l'identité choisie<br
 Le personal branding est le fait de faire de son nom une marque<br>
 maitriser son nom afin de suciter l'intêret d'un tiers<br>
 
+
+# Comment peut-on travailler son personal branding
+
+Pour travailler son personnal branding il est possible de passer par LinkedIn<br>
+Si votre profil LinkedIn est très complet et bien sourcé, il sera alors bien<br>
+référencé, avec une bonne indexation, votre profil LinkedIn peut-être bien référencé sur Google<br>
+Un autre exemple de personnal branding serait de laisser un maximum de trace positive sur Internet.<br>
+Trouver un moyen de relier votre identité à votre pseudo sur Stackoverflow<br>
+si vous êtes quelqu'un qui poste beaucoup sur StackOverflow.<br>
+Ou bien laisser une trace de votre passage sur un repo github OpenSource peut-être un bon moyen de travailler son personnal
+branding.<br>
+Le tout étant d'être actif (positivemment ou négativement, tant que vous vous créer un personnage remarquable)<br>
