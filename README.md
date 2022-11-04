@@ -148,6 +148,16 @@ c'est à dire, se tenir au courant de tout ce qui concerne de près<br>
 ou de loin une technologie afin d'établir une proposition<br>
 de solution la plus adapatée possible à la demande client<br>
 
+## Quels sont les facteurs de succès au sein de ce type d'entreprises
+
+Les facteurs de succès au sein de grand groupe ou de cabinet de conseil<br>
+sont les suivants :
+
+- Une bonne communication (aussi bien en interne qu'en externe)
+- Une bonne organisation structurelle 
+- Un matériel et des installations de qualité
+- Un personnel compétent efficace
+
 # Etape 3 : L'éthique <a id='step-three'></a>
 
 ## Y'a t-il des domaines dans lesquels vous ne travailleriez pas, car à l'encontre de vos principes
