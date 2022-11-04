@@ -112,19 +112,17 @@ Le recrutement par cooptation consiste à soliciter les salariés au sein d'une 
 de rechercher de nouveaux employés provennnant de l'entourage du salarié<br>
 Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'entreprise remplit ses effectifs.<br>
 
-# Quels sont les différentes étapes préalables à l'embauche
+# Quelles sont les différentes étapes préalables à l'embauche
 
 - Les vérifications
 
 L'entreprise effectue une verfication des priorités d'embauche au sein de l'entreprise<br>
-si des employés sont prioritaire pour une réambauche, l'entreprise privilegiera la réambauche<br>
+si des employés sont prioritaire pour une réembauche, l'entreprise privilegiera la réambauche<br>
 de ces employés.<br>
 
 - La rédaction et diffusion et offre d'emploi
 
-L'entreprise rédige une offre d'emploi et la poste par différent moyen (Internet la plupart du temps)
-
-...
+L'entreprise rédige une offre d'emploi et la poste par différent moyen (Internet la plupart du temps)<br>
 
 # Qui dans l'entreprise est impliqué dans le processus de Recrutement
 
