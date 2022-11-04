@@ -116,3 +116,12 @@ Alors qu'un développeur ne doit gérer qu'une partie de ces aspects, comme :
 - La production de code fiable et optimisé
 - Débugger du code
 - Maintenir l'application
+
+## Quelles sont les principales évolution du Métier de Développeur Blockchain
+
+Le développeur blockchain peut évoluer en Ingénieur Blockchain
+
+## Quelles sont les principales évolution du Métier d'Architecte Logiciel
+
+L'architecte blockchain peut évoluer en Jeff Bezos
+
