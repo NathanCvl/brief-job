@@ -30,7 +30,7 @@ Non, y'a trop de technos dispo pour être compétent en full stack.
 
 # Que vous inspirent ces mots : 
 
-- maitriser : é
+- maitriser :
     Maitrisez signifie que l'ont se sent à l'aise dans un domaine.
 - expert :
     Quelqu'un passé maitre dans le domaine dont il est expert, connaissant chaque aspect même le plus minime de ce domaine
