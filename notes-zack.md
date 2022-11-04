@@ -1,7 +1,7 @@
 # Blockchain
 
 
-## Objectifs :
+## Objectifs : 
 
 - Définir un projet professionnel clair et précis à court, moyen et long terme.
 	•	Élaborer une stratégie d’insertion professionnelle
@@ -13,9 +13,8 @@
 
 Étape 1 - Les métiers :
 
-- Blockchain Developer
-  
-- Software Architect
+	•	Blockchain Developer :
+	•	Software Architect
 
 
 
@@ -30,7 +29,7 @@ Un développeur blockchain est avant tout un développeur informatique qui est s
 
 
 
-	-Data analayste blockchain :
+	- analystes de données blockchain :
 
 Les analystes de données blockchain sont chargés de collecter et d’analyser les données relatives à la blockchain. Ils doivent être capables de comprendre les différents types de données collectées et de les interpréter correctement. De plus, ils doivent être à l’aise avec les outils et les techniques utilisés pour collecter et analyser les données.
 		
@@ -50,19 +49,17 @@ Les experts en cybersécurité sont chargés de protéger les réseaux et les or
 	•	Quels sont les outils propres à chaque métier ? 
 	•	
 	
-    Pour travailler dans le secteur de la blockchain, il est nécessaire de disposer de certaines compétences et connaissances. En premier lieu, il est important d’avoir une solide compréhensiondes concepts de base de la blockchain et du fonctionnement des systèmes distribués. De plus, les professionnels de la blockchain doivent être à l’aise avec les outils et technologies de la blockchain, notamment les smart contracts, les DApps et les plateformes de développement de la blockchain. En outre, les professionnels de la blockchain doivent avoir un esprit analytique et être capable de résoudre des problèmes complexes. Ils doivent également être capables de communiquer efficacement leurs idées à un public large. Enfin, les professionnels de la blockchain doivent être en mesure de travailler de manière collaborative avec d’autres professionnels de la blockchain et de différents domaines.
+    Pour travailler dans le secteur de la blockchain, il est nécessaire de disposer de certaines compétences et connaissances. En premier lieu, il est important d’avoir une solide compréhension des concepts de base de la blockchain et du fonctionnement des systèmes distribués. De plus, les professionnels de la blockchain doivent être à l’aise avec les outils et technologies de la blockchain, notamment les smart contracts, les DApps et les plateformes de développement de la blockchain. En outre, les professionnels de la blockchain doivent avoir un esprit analytique et être capable de résoudre des problèmes complexes. Ils doivent également être capables de communiquer efficacement leurs idées à un public large. Enfin, les professionnels de la blockchain doivent être en mesure de travailler de manière collaborative avec d’autres professionnels de la blockchain et de différents domaines.
 
-- Quels sont les traits de caractère / qualités nécessaires pour chaque métier ?
-La débrouillardise et la polyvalence, esprit d’équipes sont des compétences indispensables à cette profession.
-  - La rigueur et la logique sont aussi au cœur de ce métier. Dans 
-  l’informatique, des erreurs minimes peuvent avoir des conséquences dramatiques 
-  pour une entreprise, vous devrez donc être rigoureux afin de pouvoir offrir un outil de travail fiable et efficace pour vos collègues et votre direction.
-  Finalement, il est nécessaire d’être réactif et créatif pour répondre aux besoins d’une clientèle et trouver des solutions rapidement.
+	Quels sont les traits de caractère / qualités nécessaires pour chaque métier ?
+	
+	La débrouillardise et la polyvalence sont deux autres compétences indispensables à cette profession.  La rigueur et la logique sont aussi au cœur de ce métier. Dans l’informatique, des erreurs minimes peuvent avoir des conséquences dramatiques 			pour une entreprise, vous devrez donc être rigoureux afin de pouvoir offrir un outil de travail fiable et efficace pour vos collègues et votre direction.
 
-- Est-il possible de devenir un Développeur Fullstack “compétent” en 2022 / 2023 ? Pourquoi ? > Non, puisque le full stack aura un éventail trop élever de chose à gérer (front end et back 
-end & DevOps) avec des compétences nécessitant plusieurs specialisations très poussées dans chaque domaine.  
+	Finalement, il est nécessaire d’être réactif et créatif pour répondre aux besoins d’une clientèle et trouver des solutions rapidement.
+	
+	Est-il possible de devenir un Développeur Fullstack “compétent” en 2022 / 2023 ? Pourquoi ? > Non, puisque le full stack aura un éventail trop élever de chose à gérer (front end et back end) avec des compétences nécessitant plusieurs specialisations très poussés dans chaque domaine.  
 
-	•	Que vous inspirez ces mots ? (Développez) :
+	•	Que vous inspirent ces mots ? (Développez) :
 	•	maîtriser
 	•	expert
 	•	compétent
@@ -72,7 +69,7 @@ end & DevOps) avec des compétences nécessitant plusieurs specialisations très
 	•	Est-ce que “avoir des compétences” est synonyme de “être compétent” ?
 
 	•	Quelle est la différence entre “Software Engineer” et "Développeur" ? 
-    
+
 	•	Quelles sont les principales évolutions de chaque métier ? (on démarre où et on finit où)
 
 Étape 2 - Les types d’entreprises :
@@ -83,13 +80,13 @@ end & DevOps) avec des compétences nécessitant plusieurs specialisations très
 	•	Les clients finaux (Freelancing)
 	•	Les agences (digitales, WEB, marketing ...)
 
-Questions :
+    Questions :
 	•	Qu’est-ce qu’on attend de vous dans ce type d’entreprise ?
 	•	
-	•	Startup : développement et dépannage
-	•	Grand groupe: être en veille en termes de nouveauté technologique, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
+	•	Startup: développement et dépannage
+	•	Grand groupe: être en veille en terme de nouveauté technologique, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
 	•	cabinet de conseil: être en veille technologique, utilisation des dernières technologies, être force de proposition pour l’update des outils informatiques
-	•	ESN :  être en veille technologique, utilisation des dernières technologies, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
+	•	ESN:  être en veille technologique, utilisation des dernières technologies, maintien du système pour minimiser les erreurs, résolution très rapide en cas de problème du système informatique
 	•	Client finaux: développement rapide
 	•	Les agences: développement rapide, et outils fonctionnels
 	•	Quels sont les facteurs de succès dans ce type d’entreprises ?
@@ -100,25 +97,52 @@ Questions :
 	•	
 	•	
 	•	Comment est organisée une journée pour un développeur dans ce type d’entreprise (en moyenne) ?
+
+
 	•	Quels sont les spécificités de ce type de structure dans votre quotidien comparé aux autres types d’entreprise (habillement, diversité des missions, choix des outils, organisation) ?
+
+
 
 
 
 Étape 3 - L’éthique :
 Y a-t-il des domaines dans lesquels vous refuseriez toujours de travailler ? Qui vont à l’encontre de vos principes / valeurs ? Par exemple :
+
+
+Sites politiques extremistes, xenophobes, anti-sémites, terrosistes, etc...
+
+Sites illégales, proposants des services tels que la ventes d'armes, objets provenant d'espèces animals protegés (défense d'éléphants pour l'ivoire, peau d'ours, lion, panthères), drogues, médicaments/cigarettes/alcohol de contrebande, prostitutions infantiles, la traite d'être humain sous toutes ses formes, travail d'enfants en bas-âge, etc...
+
+Sites 
 	•	Si Pornhub vous propose un poste de dev accepteriez-vous ? Pourquoi ?
+
+Tout dépendra si le salaire est très élévé, la possibilité de travailler sous un pseudonyme pour ne pas impacter mon entourage, mon plan de carrière et une évolution personnelle future liée à un meilleur emploi/entreprise.
+
 	•	Si une entreprise de drones militaires d’attaques vous propose de participer au développement de la partie software, accepteriez-vous ? Pourquoi ?
+
+Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être libre de développer mes propres outils sans contraintes de NDA ou tout autre close de confidentialités. Et potentiellement la mise en danger de ma personne, en cas de fuite de données personnelles.
+
 	•	Si une startup vous propose de travailler sur une application destinée aux enfants ? (éducation 2.0, idéologies, collectes de données, endoctrinement, etc …)
 	•	Etc … (à vous d’enrichir ces propositions, sur quoi vous refuseriez de travailler)
+
+Je refuserai également de travailler pour une société proposant du contenu 'border line', revisoniste, ou pronant une idéologie suprématiste.
+
 Étape 4 - Le recrutement :
 	•	Comment travaillent les recruteurs en 2022/2023 ?
 	•	Quels sont les principaux outils pour les recruteurs ? GitHub, Linkedin, 
+
 	•	Quelles sont les différentes étapes préalables à l’embauche ? Des recherches sur l’entreprise où l’on postule, le niveau de compétences désirés, diplôme requis, salaires, etc…
+
 	•	Qui dans l’entreprise est impliqué dans le processus de recrutement ? DRH, Directeur de l’entreprise et le manager gérant l’équipe de développeur.
+
 	•	Quels peuvent être les délais d’un recrutement ? Ils peuvent varier de selon l’entreprise, allant jusqu’à 1 mois pour les entreprises de plus grande renommée. 
+
 	•	Quels sont les principaux types de tests techniques ? Coder dans un temps limité suivant un langage de programmation marchant l’intitulé du poste
-	•	Qu’allez-vous devoir travailler pour réussir ces tests ? Code un maximum en amont 
+
+	•	Qu’allez-vous devoir travailler pour réussir ces tests ? Code un maximum en amont
+
 	•	Que recherche-t-on dans l’élaboration de ces tests ? Qui recherche-t-on ? 
+
 En amont de la préparation, il est important de veiller à sa e-réputation !
 	•	C’est quoi la e-réputation ? C’est quoi l’identité ? C’est quoi la réputation ?
 	•	Que dit Google sur vous ? (petit exercice pratique)
@@ -133,10 +157,11 @@ La préparation aux entretiens d’embauches :
 	•	Les plateformes d'entraînement (codewars, coding game, etc …)
 	•	Coaching - Mentor
 	•	Développement personnel
-	•	Reformulation des questions
+	•	Re-formulation des questions
 	•	Test de personnalité (https://www.assessfirst.com/fr/science/shape/)/https://www.16personalities.com/fr/test-de-personnalite  
 	•	Quelles pourraient être les questions “déstabilisantes” en entretien d’embauche ? Citer vos qualités vs vos défauts, pourquoi vous et pas un autre?
 	•	Quelles serait votre tape loop de réponse ?
+
 Étape 5 - Interview d’un professionnel
 
 Vous allez effectuer une interview d’un professionnel sur les métiers présentés.
@@ -146,7 +171,7 @@ Cette interview s’articulera autour de 3 grandes étapes :
 	0.	Préparation de l’interview
 	0.	Réalisation de l’interview
 	0.	Bilan et retranscription
-
+ 
 
 
 Étape 6 - Comment postuler ?
@@ -154,17 +179,35 @@ Cette interview s’articulera autour de 3 grandes étapes :
 Quelles sont les plateformes et les canaux ?
 	•	Lister les outils et les plateformes.
 
+    plateformes de recherche d'emplois:
+        Indeed, Monster, Talent, welcometothejungle, Pole-Emploi, etc...
+
+       Reseaux sociaux: Linkedin, Viadeo, (Tik Tok).
+
 Comment postuler ?
 	•	Quelle est la meilleure stratégie ?
+    Faire une vielle sur les sites de recherche d'emplois, linkedin, les sites de grands groupes.
+    Autre moyen: le bouche à oreille, la recommandation, les candidatures spontanées.  
 
 Lister des offres d’emploi pertinentes pour les métiers présentés
+Data Analyst Blockchain
+Blockchain Developpeur
+Cybersécurité Développeur 
 	•	Par rapport à vos choix et vos contraintes géographiques, votre éthique, contrainte familial, etc ... effectuer une recherche d’offres d’emploi.
+
+Remplir les champs proposés sur les sites de recherches d'emplois avec nos critères, selon le diplôme, le poste, le salaire, etc...
+S'inscrire sur les bots de recherche d'emplois, mettre son CV en ligne, s'inscrire aux news letters, activer la recherche/l'envoi de mail par mots clés (par exemple: développeur Web Front-End)
+
+
 	•	Sélectionner au moins 10 offres d’emploi. Répertorier ces offres de manière tabulaire dans un document.
 
+A Faire (choisir sur différents sites)
 
 Mettre en place un système de veille persistante (recherche passive)
 	•	Système d’alerte par e-mail par exemple
-	•	Configuration de Linkedin / Glass door 
+	•	Configuration de Linkedin / Glassdoor 
+
+S'inscrire sur les bots de recherche d'emplois, mettre son CV en ligne, s'inscrire aux news letters, activer la recherche/l'envoi de mail par mots clés (par exemple: développeur Web Front-End)
 
 
 Étape 7 - Présentation orale
@@ -181,7 +224,7 @@ Un repo Github pour chaque groupe contenant : 
 	•	Slide de présentation
 	•	Retranscription des interviews (les vidéos / audios sont plus que bienvenus)
 	•	Une documentation Synthèse format Markdown (qui chatouille la rétine)
-	•	Une liste les 10 offres d’emploi sélectionnées.
+	•	Une liste les 10 offres d’emploi sélectionnées
 
 Modalités Pédagogiques : 
 
@@ -220,3 +263,32 @@ Quelques sources (non exhaustives) : 
 	•	https://github.com/tvandame/back-end-developer-interview-questions
 	•	https://guides.codepath.com/compsci/UMPIRE-Interview-Strategy
 	•	https://dev.to/fullstackcafe/20-tricky-es6-interview-questions-to-revamp-your-javascript-skills-5a4o 
+
+
+
+QUESTIONS?
+
+1. Peux-tu te présenter, décrire ton parcours (Universitaire ou Autodidacte)?
+
+2. Qu'est ce que la Blockchain?
+
+3. Quel est l'intêret de cette technolgie?
+
+4. Pourquoi s'être spécialisé dans la Blockchain, plus qu'une autre technologie? 
+
+5. Combien d'années d'expérience as-tu dans le domaine?
+
+6. Comment se passe une journée type de développeur Blockchain?
+
+7. Ou te situes-tu dans le process de développement au sein de ton équipe?
+
+8. Quels sont les domaines d'applications connues aujourd'hui, et potentiellement demain?
+
+9. Quels sont les conseils pour devenir un bon developpeur Blockchain? Le langage à savoir? Vers quel entreprise se tourner?
+
+10. Sans parler de salaire, mais plutôt de tranche salariale, qu'est ce que gagne un développer Blockchain en debut de carrière?
+
+11. Quels sont tes perspectives d'avenir, où te vois-tu dans 5-10 ans?
+
+Test git
+
