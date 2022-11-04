@@ -218,3 +218,23 @@ potentiellement les managers et aussi les salariés en cas de cooptation par exe
 
 La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
 Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
+
+## Quels sont les principaux types de tests techniques ?
+
+On going
+
+## Qu'allez vous devoir travailler pour réussir ces tests ?
+
+On going
+
+## Que recherche t-on dans l'élaboration de ces tests ? Qui recherche t-on ?
+
+On going
+
+## Qu'est ce que l'e-reputaiton, qu'est ce que l'identité, qu'est ce que la réputation ?
+
+L'identité est un nom sur un visage relié à des informations<br>
+La réputation est un ensemble de faits rapportés à une identité<br>
+La e-réputation est la réputation sur Internet<br>
+Il est très important de partionner son identité sur Internet et son identité IRL<br>
+Et de veiller à ce que notre identité ne soit pas reliable à la personne physique<br>
