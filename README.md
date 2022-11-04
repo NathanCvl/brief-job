@@ -72,3 +72,12 @@ tels que des bugs ou des demandes d'ajout de fonctionnalités, la réactivité e
 un développeur.<br>
 
 ## Architecte Logiciel (unavailable atm) <a id='software-ingeneer'>
+
+<br><br><br>
+
+## Est-il possible de devenir un développeur FuLlStack "compétent" en 2022/2023
+
+Il est absolument inenvisageable d'etre développeur FullStack compétent en 2022/2023<br>
+car le simple fait de dire "FullStack" signifie connaitre toutes les technologies<br>
+disponibles dans une domaine, hors, à l'heure actuelle, il existe une bien trop large gamme<br>
+de technologies disponibles afin d'être compétent dans toutes ces technologies.<br>
