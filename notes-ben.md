@@ -175,3 +175,22 @@ sur StackOverflow.<br>
 Ou bien laisser une trace de votre passage sur un repo github OpenSource peut-être un bon moyen de travailler son personnal
 branding.<br>
 Le tout étant d'être actif (positivemment ou négativement, tant que vous vous créer un personnage remarquable)<br>
+
+
+
+
+
+
+
+
+
+# Queeles pourrait être les questions destabilisantes
+
+- Pretentions salariales
+    -  Après m'être renseigné sur la moyenne salariale concernant ce poste, je prétends à {min} -> {max}
+
+- Vos qualités/défauts
+    - Qualités : Je suis un être humain patient, determiné, appétent
+    - Défauts :
+- Comment vos amis vous décrirez 
+    - Comme quelqu'un de reservé mais assez serviable
