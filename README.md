@@ -1,298 +1,221 @@
-# Brief Roadmap Métier Développeur
+# brief-jobs
 
-# Sommaire 
+- <a href='#introduction'>Introduction</a>
+- <a href='#blockchain-developer'>Développeur Blockchain</a>
+    - <a href='#tools-developer'>Les outils du Développeur Blockchain</a>
+    - <a href='#soft-skills-developer'>Les qualités requises pour être un bon Développeur Blockchain</a>
+    - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
+- <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
+- <a href='#diff-ingeneer-developer'>Quelle est la différence entre un Ingénieur Logiciel et un Développeur</a>
+- <a href='#hardskills'>Est ce qu'avoir des compétences signifie être compétent</a>
 
-- <a href='#objectifs'>Objectifs</a> :
-- <a href='#step-one'>Les metiers</a>
-  - <a href='#blockchain-developer'>Développeur Blockchain</a>
-  - <a href='#software-ingeneer'>Architecte Logiciel</a>
-- <a href='#step-two'>Les types d'entreprise</a>
-- <a href='#step-four'>Le recrutement</a>
+# Introduction <a id='introduction'></a>
 
-# Etape 1 : Les métiers <a id='step-one'></a>
+This present document is a presentation of Blockchain Developer job<br>
+and Software architect job, i'll introduce my strategy to get in those both jobs<br>
 
-Nous aborderons dans ce présent document les métiers suivants :
+# Le métier de Développeur Blockchain <a id='blockchain-developer'></a>
 
-- Le métier de Blockchain Developer (ou Developpeur Blockchain)
-- Le métier d'Architecte Logiciel
+Le rôle du Développeur Blockchain est de développer des solutions adaptées<br>
+à la blockchain sur laquelle il travaille, il est important de faire<br>
+une distinction au sein même de ce métier, le métier de Développeur Blockain<br>
+se décline en fait en 2 rôles bien distincts :
 
-## Développeur Blockchain <a id='blockchain-developer'></a><br>
+- Le 'Core BLockchain Developer' 
 
-## Quels sont les différents rôles de chaques postes :
+Le Développeur de Coeur Blockchain est un développeur qui va s'occuper de la<br>
+partie structurelle de la blockchain, il va designer la blockchain, créer des <br>
+paternes de sécurité, superviser tout ce qui touche au réseau concernant la blockchain<br>
 
-Le développeur Blockchain est un développeur spécialisé dans les technologies de la<br>
-Blockchain, son rôle est de développer des solutions adaptées au modèle de la Blockchain ainsi<br>
-qu'à ses besoins.<br>
-De ce fait, le développeur Blockchain doit savoir développer dans diverses langages adaptés à la<br>
-gestion d'une blockchain.<br>
+- Le 'Blockchain Software Developer'
 
-Aussi, le développeur Blockchain est amené à collaborer avec d'autres corps de métiers tels que : <br>
+Le Développeur Logiciel Blockchain va quant à lui, s'occuper de développer des<br>
+logiciels afin de les distribuer sur la plateforme blockchain, il s'occupe de la partie<br>
+Front-end et Back-end, il maintiendra ces logiciels.<br>
 
-- Le data analyst spécialisé Blockchain
-- L'architecte Logiciel spécialisé Blockchain
-- L'expert CyberSécurité
+Le développeur Blockchain doit être à l'aise avec les technologies concernant la Blockchain.<br>
 
-### Le data analyst
+Basiquement, le développeur Blockchain doit être en mesure de comprendre les principes<br>
+de la blockchain ainsi que ce qui peut en découler<br>
+Il est important de connaître les langages de programmation orientés Blockchain : <br>
 
-Le rôle du data analyst est de savoir collecter les données relatives à la blockchain et<br>
-de savoir interpretter correctement ces données, aussi le data analyst doit être à l'aise<br>
-avec les outils permettant de collecter et d'analyser les données collectées.<br>
+- <a href='https://docs.soliditylang.org/en/v0.8.17/'>Solidity</a> 
+- <a href='https://www.rust-lang.org/fr'>Rust</a>
 
-### L'architecte Logiciel (spécialisé Blockchain)
+Aussi, le développeur est amené à développer des solutions ou utiliser des solutions<br>
+cryptographiques, c'est pourquoi il s'agit d'un aspect du métier de développeur blockchain<br>
+à ne pas négliger.<br>
 
-Le rôle de l'architecte logiciel dans la blockchain est de veiller à la bonne mise en oeuvre<br>
-des solutions blockchain, l'architecte logiciel doit aussi concevoir l'architecture blockchain<br>
-adaptée, un architecte logiciel se doit de comprendre les technologies liées à la blockchain<br>
+Le développeur blockchain doit être capable de mettre en place une architecture blockchain<br>
+sécurisé, d'analyser les données concernant sa blockchain.<br>
 
-### L'expert CyberSécurité
+Le développeur blockchain doit être à même de corriger des bugs.<br>
 
-L'expert en CyberSécurité doit veiller à tous les aspects concernant la sécurité au sein de la<br>
-blockchain dont il a la charge, l'expert cybersécurité est un composant très important au sein<br>
-de la blockchain afin de protéger l'integralité de cette dernière.<br>
+En outre, il doit être capable de s'assurer du bon fonctionnement des composants logiciels, ainsi que<br>
+d'assurer l'aspect collaboratif avec les différents acteurs de la blockchain tels que : 
 
-## Quelles sont les compétences liées
+- L'architecte Blockchain
+- L'ingénieur Blockchain
+- Le DevOps Blockchain
 
-Le développeur blockchain doit disposer d'un certains eventail de compétence afin d'être<br>
-performant dans le milieu de la blockchain, telles que celles qui suivent : 
+L'architecte blockchain et le développeur blockchain peuvent être amené à travailler<br>
+ensemble afin d'élaborer l'architecture la plus adaptée à la blockchain.<br>
 
-- Il doit être capable de concevoir une base de donnée
-- Être en mesure de comprendre la demande client
-- Développer une solution adaptée à la demande client
-- Être capable de tester le code développé
-- Fournir une documentation technique à la solution adaptée dévelopée préalablement
-- Faire preuve de polyvalence afin de s'adapter à toutes les situations auxquelles il sera confronté
-- Collaborer avec les différents corps de métiers composant la blockchain et en comprendre les enjeux
+L'architecte est en charge de toute la partie conception de la blockchain ainsi que<br>
+d'apporter des solutions de sécurité adpatées à l'infrastructure de la blockchain<br>
 
-## Quels sont les traits de caractère / qualités nécessaire pour être Blockchain Developer
+Il sera lui même amené à collaborer avec l'ingénieur blockchain.<br>
 
-Un développeur Blockchain se doit d'être flexible afin de pouvoir s'adapter aux défis qu'il sera<br>
-amené à rencontrer, avoir un esprit logique est une très bonne chose pour travailler en tant que<br>
-développeur, la rigueur est aussi une trait de caractère nécessaire afin de mener à bien les projets<br>
-actuellement en cours de développement.<br>
-Aussi, la réactivité et la créativité sont de très bonne choses afin de gérer des situations inattendues<br>
-tels que des bugs ou des demandes d'ajout de fonctionnalités, la réactivité est un point essentiel pour<br>
-un développeur.<br>
+L'ingénieur blockchain étant la version évoluée du développeur blockchain, ces derniers<br>
+seront amenés à collaborer ensemble tout au long de leur travail au sein de la blockchain<br>
+afin d'élaborer une blockchain fiable et optimisée.<br>
 
-## Architecte Logiciel (unavailable atm) <a id='software-ingeneer'></a>
+Le DevOps (Developpeur Opérateur) blockchain et le développeur blockchain, sont eux aussi<br>
+amenés à collaborer tout au long du cycle de vie de la blockchain sur laquelle ils travaillent<br>
+car le DevOps à une place importante dans le développement de la blockchain, il sera à même<br>
+d'établir une liaison entre la partie développement de la blockchain et l'adaptabilité système<br>
 
-To fill<br>
+Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
+ainsi qu'avec l'ingénieur blockchain.<br>
 
-To fill<br>
+# Les outils du Développeur Blockchain <a id='tools-developer'></a>
 
-To fill<br>
+Le développeur Blockchain doit avoir connaissance de quelques outils pour travailler correctement<br>
+Les outils du développeur Blockchain : 
 
-## Est-il possible de devenir un développeur FuLlStack "compétent" en 2022/2023
+- Embark
+- Geth
+- Truffle
+- Remix IDE
+- web3js
+- MetaMask
+- Prysm
 
-Il est absolument inenvisageable d'etre développeur FullStack compétent en 2022/2023<br>
-car le simple fait de dire "FullStack" signifie connaitre toutes les technologies<br>
-disponibles dans une domaine, hors, à l'heure actuelle, il existe une bien trop large gamme<br>
-de technologies disponibles afin d'être compétent dans toutes ces technologies.<br>
+La liste ci-dessus n'est pas exhaustive et ne serait être réelement représentative du champ de<br>
+possibilités disponibles en terme d'outillage lié au développement blockchain.<br>
+Cependant, lors du développement d'application décentralisé (dApps) ces outils seront d'indispensables.<br>
+Il existe encore un très large panel d'outil.<br>
+<a href='https://www.codementor.io/learn/blockchain/development-tools'>Consultez une liste plus complète</a>
 
-## Que vous inspirent ces mots 
+# Soft skills nécessaires au Développeur Blockchain <a id='soft-skills-developer'></a>
 
-...
+Le développeur blockchain doit savoir faire preuve de rigueur lors du développement de la blockchain<br>
+car il s'agit d'un système relativement complexe.<br>
 
-## Est-ce qu'avoir des compétences est synonyme d'être compétent
+Il doit aussi être curieux, afin de toujours accroitre son savoir sur les technologies<br>
+de la blockchain.<br>
 
-Non, il est possbile d'avoir des compétences, cependant si on ne sait pas les appliquer<br>
-nous ne serons pas compétent.<br>
+Le dévelopeur blockchain doit être capable d'innover afin de créer de nouvelles façons de mettre en<br>
+oeuvre la blockchain.<br>
 
-## Quelle est la différence entre Software Ingeneer et Développeur
+Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<br>
 
-Un ingenieur logiciel doit assurer l'entierté du cycle de vie d'une applicarion<br>
-il doit assurer chaques étapes du processus de développement de l'application tels que :
+# Les évolutions possible du Développeur Blockchain <a id='evolution-developer'></a>
 
-- Concevoir l'application
-- Produire du code fiable et optimisé
-- Ecrire de la documentation technique par rapport à l'application
-- Intégre des composants logiciels au sein d'un environnement de façon complétement fonctionnelle
-- S'assure que le développement de l'application se fait correctement
-- Maintenir l'application / projet dont il a la charge
-- Débugger du code
-- S'assure de la mise à jour du système
-- Deploiement du projet et évaluation des retours utilisateurs
+Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
+Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
 
-Alors qu'un développeur ne doit gérer qu'une partie de ces aspects, comme :
+# Fullstack et compétent en 2022 ? <a id='fullstack'></a>
 
-- Conception de l'application
-- La production de code fiable et optimisé
-- Débugger du code
-- Maintenir l'application
+Le terme 'FullStack' signifie littéralement 'Pleines Technologies' c'est à dire<br>
+qu'un développeur se revendiquant fullstack maîtrise toutes les technologies de son<br>
+domaine, par exemple un développeur Web FullStack doit maîtriser les technologies<br>
+concernant le Front-End et les technologies concernant le Back-End, cependant<br>
+il y'a beaucoup trop de technologies dans ces 2 domaines pour être capables de toutes<br>
+les maîtriser, c'est pourquoi il est impossible d'être un développeur FullStack compétent.<br>
 
-## Quelles sont les principales évolution du Métier de Développeur Blockchain
+# Qu'est ce qu'un 'Ingénieur Logiciel' doit faire de plus qu'un 'Simple' Développeur <a id='diff-ingeneer-developer'></a>
 
-Le développeur blockchain peut évoluer en Ingénieur Blockchain
+L'ingénieur logiciel doit s'assurer du bon déroulement de tous les aspects concernant<br>
+l'application pendant toute la durée du cycle de vie de cette dernière.<br>
 
-## Quelles sont les principales évolution du Métier d'Architecte Logiciel
+C'est à dire qu'il doit veiller à ce que la conception, l'ajout de nouveaux composants,<br>
+le maintient de l'application se fasse dans les meilleurs conditions possibles.<br>
 
-L'architecte blockchain peut évoluer en Jeff Bezos
+Aussi il doit produire du code fiable et optimisé qu'il sera amené à débugger,<br>
+il s'assure que le système sur lequeul est mis en place l'application soit mis à jour,<br>
+il écrit la documentation technique relative à l'application et s'assure que le déploiement<br>
+de cette dernière soit correctement effectué, il évalue les retours des utilisateurs.<br>
 
-# Etape 2 : Les types d'entreprise <a id='step-two'></a>
+Alors que le simple développeur doit quant à lui s'occuper de produire du code fiable, optimisé<br>
+et debbugable, il s'assure aussi du maintient de l'application dans la plupârt des cas ainsi que<br>
+de concevoir l'application à son échelle.<br>
 
-## Les grands groupes
+# Avoir des compétences = Être compétent ? <a id='hardskills'></a>
 
-### Qu'est ce qui est attendu
+Le fait d'avoir des compétences ne signifie pas en soit être compétent, ça ne suffit pas.<br>
+Il est possible d'avoir des compétences dans un domaine, si elles sont pas mises en oeuvre correctement<br>
+on est pas compétent.<br>
 
-Ce qui est attendu au sein des grands groupes en terme de technicité est<br>
-d'être compétent, c'est à dire d'exercer une veille casi permanantes quant aux<br>
-technologies nouvelles, être en mesure de maintenir un système et de faire preuve<br>
-d'une réactivit accrue afin de gérer les situations imprévuees.<br>
+Prenons l'exemple de quelqu'un qui sort d'université, il a acquit des compétences théoriques<br>
+cepedant lors de la mise en pratique de ces compétences, tout ne se passera pas comme prévu<br>
+Il n'est pas compétent, il dispose simplement de compétences.<br>
 
-## Les cabinets de conseils
+# Les différents types d'entreprises
 
-### Qu'est ce qui est attendu
+# La Start-up
 
-Ce qui est attendu pour travailler au sein d'un cabinet de conseil est<br>
-d'exercer une veille permanantes quants aux nouvelles technologies,<br>
-c'est à dire, se tenir au courant de tout ce qui concerne de près<br>
-ou de loin une technologie afin d'établir une proposition<br>
-de solution la plus adapatée possible à la demande client<br>
+Lorsque l'on travaille au sein d'une start-up, il est nécessaire d'accorder de l'importance au<br>
+facteur humain et donc d'être capable de travailler en équipe, tout en étant autonome malgrés tout.<br>
 
-## Quels sont les facteurs de succès au sein de ce type d'entreprises
+Le choix d'une start-up peut-être fait d'avantage par les ambitions que l'on se fixe que par le corps<br>
+de métier dans lequel on se trouve, même si cela reste quand même un facteur à prendre en compte.<br>
 
-Les facteurs de succès au sein de grand groupe ou de cabinet de conseil<br>
-sont les suivants :
+Il est d'avantage conseillé d'être polyvalent au sein d'une start-up plutôt que d'être spécialisé<br>
+dans un seul domaine distinct, puis-ce que vous êtes amenés à mener à bien des projets avec une équipe<br>
+dans des domaines divers et variés.<br>
 
-- Une bonne communication (aussi bien en interne qu'en externe)
-- Une bonne organisation structurelle 
-- Un matériel et des installations de qualité
-- Un personnel compétent efficace
+En Start-Up l'ambiance étant plus détendue que dans d'autre type d'entreprise, l'accoutrement n'est pas stricte<br>
+comme au sein d'un grand groupe par exemple.<br>
 
-# Etape 3 : L'éthique <a id='step-three'></a>
+Puis-ce que vous êtes amenés à travailler en équipe sur des projets divers et variés, les journées sont plutôt<br>
+toujours les mêmes, lors d'un projet vous travaillez dessus avec votre équipe jusqu'à ce qu'il soit mené à bien.<br>
 
-## Y'a t-il des domaines dans lesquels vous ne travailleriez pas, car à l'encontre de vos principes
+Lorsque vous n'en avez pas, vous en choisissez un et vous vous mettez d'accord avec votre équipe sur la façon dont<br>
+doit être abordé le projet, quels outils vous allez mettre en place et qui sera le plus adapté.<br>
 
-## Selon Zack
+Pour travailler dans une start-up il faut être prêt à s'investir réellement dans son entreprise et s'avoir s'imposer<br>
+des contraintes personnelles.<br>
 
-### Si PornHub vous proposez un poste de développeur, accepteriez-vous
+### Le développeur Blockchain
 
-Oui, si le salaire est suffisamment elevé, si il est possible de travailler sous un pseudonyme afin de ne<br>
-pas compromettre une carrière future ou de porter atteinte à mon entourage.<br>
+Le développeur Blockchain peut-être attiré par une start-up orientée blockchain en raison du type d'entreprise dont il s'agit<br>
+ainsi que par la façon dont intéragissent les éléments humains au sein d'une start-up.<br>
 
-### Si une entreprise de drones militaire vous proposez un poste de développeur, accepteriez-vous
+# Le recrutement
 
-Non, à cause de mes convictions personnelles.<br
-Je souhaite aussi être libre de développer mes propres outils sans contraintes de NDA ou<br> tout autre close de confidentialités.<br>
-Et potentiellement la mise en danger de ma personne, en cas de fuite de données personnelles.<br>
+Le recrutement de nouveaux éléments au sein d'entreprise peut se faire de différentes façons et par différents moyen.<br>
+Les recruteurs utilisent certains biais afin de recruter au sein de leur entreprises, tels que les suivants : <br>
 
-Je refuserai également de travailler pour une société proposant du contenu 'border line',<br>
-revisoniste, ou prônant une idéologie suprématiste.
-
-## Selon Benjamin
-
-### Si PornHub vous proposez un poste de dévelopeur, accepteriez-vous
-
-Oui, l'industrie du sexe ne me pose pas de dilème moral.<br>
-
-### Si une entreprise de drones militaire vous proposez un poste de développeur, accepteriez-vous
-
-Non, je ne suis pas contre les armes<br>
-Cependant, une entreprise ayant pour vocation de développer des drones à des fins militaire<br>
-n'est pas un environnement dont je voudrais être un mayon.<br>
-C'est contraire à mes principes que de créer des armes, même si je pense que les armes sont utiles.<br>
-
-# Etape 4 : Le recrutement <a id='step-four'></a>
-
-## Comment travaillent les recruteurs en 2022/2023
-
-On going
-
-## Quels sont les principaux outils des recruteurs
-
-Les recruteurs utilisent différents outils afin de recruter de nouveaux employés tel que les suivants :
-
-- Le recrutement en ligne<br>
+- Le recrutement en ligne
 
 Le recrutemeent en ligne est une part importante du recrutement de nouveaux éléments au sein d'une entreprise.<br>
-L'envergure d'Internet en fait le meilleur candidat afin de propager des offres d'emploi.<br>
+L'envergure d'Internet en fait le meilleur candidat afin de propager des offres d'emploi.
 
-- Les cabinets de recrutement<br>
+- Les cabinets de recrutement
 
 Il arrive qu'une entreprise souhaite en engager une autre afin de s'occuper de l'aspect recrutement,<br>
-les cabinets de recrutements sont spécialisés dans certains domaines et sont utilisé pour trouver un <br>
-nouvel élément avec un haut niveau de compétence.
+les cabinets de recrutements sont spécialisés dans certains domaines et sont utilisé pour trouver de nouveaux<br>
+éléments avec un haut niveau de compétence.
 
-- Le recrutement interne<br>
+- Le recrutement interne
 
 Certaines entreprises privilègient la promotion d'un employé afin de créer un nouveau poste à responsabilités.<br>
-De ce fait, grace à cette façon de faire, l'employé à une meilleure connaissance de l'environnement qu'un élément
-externe.<br>
+De ce fait, grace à cette façon de faire, l'employé à une meilleure connaissance de l'environnement qu'un élément externe.
 
 - Le recrutement pas cooptation
 
-Le recrutement par cooptation consiste à soliciter les salariés au sein d'une entreprise afin<br>
+Le recrutement par cooptation consiste à soliciter les salariés au sein de l'entreprise afin<br>
 de rechercher de nouveaux employés provennnant de l'entourage du salarié<br>
+
 Ainsi, le parrain reçoit une prime, le nouvel employé obtient un travail, l'entreprise remplit ses effectifs.<br>
 
-## Quelles sont les différentes étapes préalables à l'embauche
+Il existe des étapes préalables au recrutement de nouveaux éléments, tels que la vérification du besoin réel,<br>
+c'est à dire que l'entreprise réalise une une vérification des postes à pourvoir, vient ensuite l'étape de la<br>
+rédaction d'offre si la vérification du besoin réel à aboutit à un recrutement externe d'éléments.<br>
 
-- Les vérifications
+L'entreprise rédige alors une offre d'emploi et la diffuse par le biais des moyens vus ci-dessus.<br> 
 
-L'entreprise effectue une verfication des priorités d'embauche au sein de l'entreprise<br>
-si des employés sont prioritaire pour une réembauche, l'entreprise privilegiera la réambauche<br>
-de ces employés.<br>
+Une fois ces 2 étapes faites, l'entreprise traitent les candidatures reçues, le délai du recrutement<br>
+atteint en moyenne 32 jours.<br>
 
-- La rédaction et diffusion et offre d'emploi
-
-L'entreprise rédige une offre d'emploi et la poste par différent moyen (Internet la plupart du temps)<br>
-
-## Qui dans l'entreprise est impliqué dans le processus de recrutement
-
-Le processus de recrutement implique les Directeur Ressources Humaines de l'entreprise,<br> 
-potentiellement les managers et aussi les salariés en cas de cooptation par exemple.<br>
-
-## Quels peuvent être les delais de recrutement
-
-La durée d'un processus de recrutement est variable en raison de certains critères comme la période, le poste, le secteur<br>
-Cependant, la durée moyenne d'un processus de recrutement est de 32 jours.
-
-## Quels sont les principaux types de tests techniques ?
-
-On going
-
-## Qu'allez vous devoir travailler pour réussir ces tests ?
-
-On going
-
-## Que recherche t-on dans l'élaboration de ces tests ? Qui recherche t-on ?
-
-On going
-
-## Qu'est ce que l'e-reputaiton, qu'est ce que l'identité, qu'est ce que la réputation ?
-
-L'identité est un nom sur un visage relié à des informations<br>
-La réputation est un ensemble de faits rapportés à une identité<br>
-La e-réputation est la réputation sur Internet<br>
-Il est très important de partionner son identité sur Internet et son identité IRL (In Real Life)<br>
-Et de veiller à ce que notre identité ne soit pas rattachable à la personne physique<br>
-
-## Que dit Google sur vous ?
-
-### Selon Benjamin 
-
-Rien.
-
-# Quelles traces est-il possible de laisser sur Internet
-
-Il est possible de laisser tout type de traces sur Internet, tout dépends du contexte<br>
-du traitement qui sera effectué sur la donnée, globalement, les cookies sont un excellent<br>
-exemple de trace, il est possible de définir des profils selon les cookies stockés sur quels site<br>
-Etc, en bref, faire le plus attention ce qu'on fait selon l'identité choisie<br>
-
-## Définissez le terme 'Personal Branding'
-
-Le personal branding est le fait de faire de son nom une marque<br>
-maitriser son nom afin de suciter l'intêret d'un tiers<br>
-
-
-# Comment peut-on travailler son personal branding
-
-Pour travailler son personnal branding il est possible de passer par LinkedIn<br>
-Si votre profil LinkedIn est très complet et bien sourcé, il sera alors bien<br>
-référencé; avec une bonne indexation, votre profil LinkedIn peut-être bien référencé sur Google<br>
-Un autre exemple de personnal branding serait de laisser un maximum de trace positive sur Internet.<br>
-Trouver un moyen de relier votre identité à votre pseudo sur Stackoverflow<br>
-si vous êtes quelqu'un qui poste beaucoup sur StackOverflow.<br>
-Ou bien laisser une trace de votre passage sur un repo github OpenSource peut-être un bon moyen de travailler son personnal
-branding.<br>
-Le tout étant d'être actif (positivemment ou négativement, tant que vous vous créer un personnage remarquable)<br>
