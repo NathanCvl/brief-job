@@ -291,3 +291,24 @@ L'entreprise rédige alors une offre d'emploi et la diffuse par le biais des moy
 Une fois ces 2 étapes faites, l'entreprise traitent les candidatures reçues, le délai du recrutement<br>
 atteint en moyenne 32 jours.<br>
 
+# Personal Branding et les traces sur Internet
+
+Pour comprendre quelles sont les traces qu'il est possible de laisser sur Internet, il faut comprendre<br>
+quelques trucs, qu'est ce que l'identité par exemple ?
+
+L'identité sur Internet est un ensemble d'informations reliées à un pseudonyme ou à un Nom réel.<br>
+La e-reputation est la réputation sur Internet, soit un ensemble de faits relié à un identité.<br>
+
+Il est important de comprendre ces 2 points pour comprendre comment peuvent fonctionner les recrutements<br>
+basé sur Internet.<br>
+
+Lorsque vous naviguez sur Internet, vous laissez une quantité importante de traces sur les sites que vous<br>
+consultez, cela peut aller du simple cookie, jusqu'au commentaire Tweeter avec vos opinions politiques par exemple.<br>
+
+Si vous avez consultez un site de vente en ligne, puis que vous êtes passé sur Tweeter juste après avec le même<br>
+compte Google, il est possible d'identifier les préférences d'achats de votre personne réele physique, il est important<br>
+de prendre ça en compte lorsque vous naviguez sur Internet, afin de maitriser les traces que vous laissez.<br>
+
+Et de travailler efficacement son 'Personnal Branding' (Faire de son nom une marque), si vous êtes à la recherche<br>
+d'un emploi dans le monde du développement, il peut-être intéressant de faire apparaitre votre identité dans des projets<br>
+OpenSource sur GitHub par exemple, le personal branding est un côté important de la recherche d'emploi sur Internet.<br>
