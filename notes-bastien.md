@@ -218,7 +218,9 @@ Tout dépendra si le salaire est très élevé, la possibilité de travailler so
 
 Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être libre de développer mes propres outils sans contraintes de NDA ou tout autre close de confidentialités. Et potentiellement la mise en danger de ma personne, en cas de fuite de données personnelles.
 
-# Comment postuler ?
+# Étape 4 - Le recrutement
+
+## Comment postuler ?
 
 ### Quelles sont les plateformes et les canaux ?
 
@@ -230,7 +232,7 @@ Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être l
 - Hellowork
 - Jobijoba
 
-## Liste de 10 postes dans le domaine de la blockchain.
+### Liste de 10 postes dans le domaine de la blockchain.
 
 |      **_Entreprise_**      	|  **_Villes_**  	|                         **_Poste_**                         	|                **_Expérience_**               	|                           **_Éducation_**                           	|                                                                                        **_Lien de l'offre d'emploi_**                                                                                        	|
 |:--------------------------:	|:--------------:	|:-----------------------------------------------------------:	|:---------------------------------------------:	|:-------------------------------------------------------------------:	|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:	|
@@ -245,7 +247,7 @@ Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être l
 |         Matter Labs        	|  Eu, Normandy  	|            Senior Security Engineer (Blockchain)            	|                    >= 3 ans                   	|                                  NA                                 	|     https://www.linkedin.com/jobs/view/senior-security-engineer-blockchain-at-matter-labs-3344548773/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic&originalSubdomain=fr    	|
 |      Accenture France      	|      Paris     	|       Consultant Blockchain - Services Financiers H/F       	|                       NA                      	|                                  NA                                 	|                                     https://www.hellowork.com/fr-fr/emplois/20670224.html?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic                                     	|
 
-## Liste de 10 postes dans l'architecture logiciel.
+### Liste de 10 postes dans l'architecture logiciel.
 
 
 |    **_Entreprise_**    	|     **_Villes_**    	|                     **_Poste_**                     	|                                              **_Expérience_**                                              	|                                       **_Éducation_**                                       	|                                                                                **_Lien de l'offre d'emploi_**                                                                                	|
