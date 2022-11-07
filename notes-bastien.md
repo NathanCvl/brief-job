@@ -220,8 +220,6 @@ Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être l
 
 # Étape 4 - Le recrutement
 
-## Comment postuler ?
-
 ### Quelles sont les plateformes et les canaux ?
 
 - Linkedin 
