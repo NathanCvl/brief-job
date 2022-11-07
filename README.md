@@ -7,10 +7,8 @@
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
 - <a href='#architecte-logiciel'>Architecte Logiciel</a>
     - <a href='#competences-liees'> Quelles sont les compétences liées</a>
-    - <a href='#qualites-necessaires'> Quels sont les traits de caractère / qualités nécessaires pour être un architecte logiciel</a> 
-        - <a href='#bon-en-communication'>Bon en communication </a>
-        - <a href='#competences-en-leadership'>Compétences en Leadership </a>
-    - <a href='#pour-resumer'> Pour Résumer</a>
+    - <a href='#qualites-necessaires'> Les qualités requises pour être un bon Architecte Logiciel</a> 
+        - <a href='#pour-resumer'> Pour Résumer</a>
 
 
 - <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
@@ -159,13 +157,13 @@ L'architecte logiciel devra se tenir au courant de la programmation et de ses é
 
 Il convient de noter que la tâche la plus fréquente d'un architecte logiciel est de coder plutôt que de trouver une solution avec des concepts ou des diagrammes de haut niveau.
 
-### Bon en communication. <a id='bon-en-communication'></a>
+### Bon en communication.
 
 - Pour être un architecte logiciel performant, il est essentiel d'avoir des compétences en communication, car il est le maillon entre les diférentes entités techniques et commerciales.
 
 - Il doit aussi avoir la capacité de convertir des termes techniques en langage simple.
 
-### Compétences en leadership. <a id='competences-en-leadership'></a>
+### Compétences en leadership.
 
 - Le travail d'un architecte logiciel consiste à encadrer et à coordonner des équipes techniques afin de les aider à promouvoir leur vision de la solution optimale. 
 
