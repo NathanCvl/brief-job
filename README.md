@@ -5,6 +5,7 @@
     - <a href='#tools-developer'>Les outils du Développeur Blockchain</a>
     - <a href='#soft-skills-developer'>Les qualités requises pour être un bon Développeur Blockchain</a>
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
+- <a href='#architecte-logiciel'>Architecte Logiciel</a>
 - <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
 - <a href='#diff-ingeneer-developer'>Quelle est la différence entre un Ingénieur Logiciel et un Développeur</a>
 - <a href='#hardskills'>Est ce qu'avoir des compétences signifie être compétent</a>
@@ -114,6 +115,72 @@ Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<
 
 Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
 Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
+
+
+# l'Architect Logiciel <a id='architecte-logiciel'></a>
+
+# Architecte Logiciel
+
+C'est la personne qui prend les décisions critiques concernant la conception d'un système logiciel.
+
+L'architecte logiciel, est responsable de :
+
+- Définir les principes de conception logicielle du projet en élaborant des schémas ou plans regroupants toutes les entitées prenant part au projet
+
+- Créer une conception de haut niveau d'un système logiciel et de ses composants ainsi qu'établir la manière dont ces composants interagissent entre eux et avec d'autres applications externes
+
+- Créer un guide technique global qui définit la technologie à utiliser. Les outils et les normes agissent comme un point fondamental pour la compréhension partagée du processus de développement
+
+- Aborder des aspects importants tels que les fonctionnalités, les performances, les évolutions ou limitations logiciels/techniques, sans occulter la sécurité pour la viabilité du projet
+
+Pour une communication efficace, l'architecte logiciel veillera à ce que le travail entre les intervenants et le personnel technique soient bien informés des décisions tout au long du cycle de prototypage.
+
+Il s'agira pour lui de créer un produit performant et réussi.
+
+
+## Quelles sont les compétences liées
+
+### Compétences nécessaires et compétences requises d'un architecte logiciel
+
+Les architectes logiciels possèdent généralement une expertise approfondie et complète afin d'effectuer des tâches plus complexes que d'autres dans le même projet. Il n'est donc pas étonnant que la plupart d'entre eux aient occupé des postes techniques de haut niveau avant de devenir architectes logiciels. De plus, un architecte logiciel doit être capable de travailler non seulement avec des machines mais aussi avec des personnes. La liste ci-dessous présente les principales caractéristiques d'un architecte logiciel qualifié.
+
+Expérience technique intensive. Il est obligatoire pour un architecte d'avoir une maîtrise ou être ingénieur en informatique. 
+
+Une expérience solide composé de différents projets utilisant différentes technologies ou langages de programmation. Bien souvent, 5 à 10 ans d'expérience en programmation seront nécessaires pour devenir architecte logiciel.
+
+## Quels sont les traits de caractère / qualités nécessaire pour être un architecte logiciel
+
+L'architecte logiciel devra se tenir au courant de la programmation et de ses évolutions, par exemple la nouvelle transation du Javascript en 2015. Il continuera bien évidement à écrire du code.
+
+Il convient de noter que la tâche la plus fréquente d'un architecte logiciel est de coder plutôt que de trouver une solution avec des concepts ou des diagrammes de haut niveau.
+
+### Bon en communication.
+
+- Pour être un architecte logiciel performant, il est essentiel d'avoir des compétences en communication, car il est le maillon entre les diférentes entitées  techniques et commerciales.
+
+- Il doit aussi avoir la capacité de convertir des termes techniques en langage simple.
+
+### Compétences en leadership. 
+
+- Le travail d'un architecte logiciel consiste à encadrer et à coordonner des équipes techniques afin de les aider à promouvoir leur vision de la solution optimale. 
+
+### Pour résumer
+
+L’Architecte Logiciel est un ingénieur expérimenté qui a pour objectif la création<br> ou l’évolution de l’architecture logicielle d’une organisation. Il se charge de recueillir les besoins des différentes parties prenantes <br>(développeurs, utilisateurs, clients, etc.), puis de synthétiser l’information<br> afin de proposer une architecture idéale pour le ou les logiciels demandés.
+
+L’Architecte Logiciel travaille en étroite collaboration avec les devOps informatiques qui se basent sur son architecture pour construire le logiciel. Selon le projet et la taille de l’entreprise, l’Architecte Logiciel peut s’impliquer dans la phase de programmation et suivre le travail des développeurs.   
+
+Les missions de l’Architecte Logiciel sont diverses :
+
+- Audit et analyse de l’architecture existante et anticipation des risques
+- Conception de l’architecture logicielle au niveau fonctionnelle et technique en fonction des différents besoins exprimés
+- Contrôle de la cohérence entre la mise en œuvre effective et le modèle d’architecture préconisé
+- Rôle de conseiller sur les bonnes pratiques et le respect des méthodologies
+- Accompagner le client dans les décisions technologiques
+- Veille technologique pour s’inscrire dans une logique d’amélioration continue
+
+Selon la taille de l’entreprise, les fonctions de Développeur Informatique et d’Architecte Logiciel peuvent se confondre.
+
 
 # Fullstack et compétent en 2022 ? <a id='fullstack'></a>
 
