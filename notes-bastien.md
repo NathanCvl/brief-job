@@ -202,6 +202,22 @@ Non, car il ne peut pas savoir tout faire et faire le travail de 2 personnes com
 - Choix des outils (Dernière technologie, software et hardware)
 - Organisation (possibilité de créer de nouvelle convention - Créateur bitcoin (Satochi Nakamoto), structure organisationnel plus souple)
 
+# Étape 3 - L’éthique 
+
+- **Y a-t-il des domaines dans lesquels vous refuseriez toujours de travailler ? Qui vont à l’encontre de vos principes / valeurs ? Par exemple :**
+
+Sites politiques extremistes, xenophobes, anti-sémites, terrosistes, etc...
+
+Sites illégales, proposants des services tels que la ventes d'armes, objets provenant d'espèces animals protegés (défense d'éléphants pour l'ivoire, peau d'ours, lion, panthères), drogues, médicaments/cigarettes/alcohol de contrebande, prostitutions infantiles, la traite d'être humain sous toutes ses formes, travail d'enfants en bas-âge, etc...
+
+- **Si Pornhub vous propose un poste de dev accepteriez-vous ? Pourquoi ?**
+
+Tout dépendra si le salaire est très élevé, la possibilité de travailler sous un pseudonyme pour ne pas impacter mon entourage, mon plan de carrière et une évolution personnelle future liée à un meilleur emploi/entreprise.
+
+- **Si une entreprise de drones militaires d’attaques vous propose de participer au développement de la partie software, accepteriez-vous ? Pourquoi ?**
+
+Je refuserai à cause de mes convictions personnelles. Je souhaite aussi être libre de développer mes propres outils sans contraintes de NDA ou tout autre close de confidentialités. Et potentiellement la mise en danger de ma personne, en cas de fuite de données personnelles.
+
 # Comment postuler ?
 
 ### Quelles sont les plateformes et les canaux ?
