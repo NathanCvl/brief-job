@@ -174,14 +174,6 @@ Ou bien laisser une trace de votre passage sur un repo github OpenSource peut-ê
 branding.<br>
 Le tout étant d'être actif (positivemment ou négativement, tant que vous vous créer un personnage remarquable)<br>
 
-
-
-
-
-
-
-
-
 # Queeles pourrait être les questions destabilisantes
 
 - Pretentions salariales
