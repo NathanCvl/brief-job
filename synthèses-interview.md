@@ -36,26 +36,17 @@ de son apprentissage (En cours ou en formation par exemple).<br>
 Dire quelles sont les technologies qu'il a utilisé, et combien de temps a t-il était sur les missions sur lesquelles<br>
 il a été amené à travailler.
 
-Les entretiens junior : 
+Le recruteur va d'abord regarder les hard-skills de son interlocuteur, s'il voit ce dont il a besoin<br>
+il regardera ses soft-skills, c'est à dire, comment le Junior se comporte, sa façon de parler, etc..<br>
 
-C'est au Junior de se présenter, de montrer ce qu'il a fait en tant qu'expérience pro dans un certain domaine
+Les tests techniques auquels sont soumis les juniors en freelance semble ne pas être requis, ou du moins<br>
+relativement génériques, il est cependant possible qu'un client demande à ce que le candidat<br>
+passe des tests techniques spécifiques tels que des coding games par exemple.<br>
 
-- Les expériences professionnelles
-- Les projets réalisés en cours / formations
-- Quelles technos il a utilisé
-- Combien de temps il a passé sur les missions
 
-En premier lieu, la plupart du temps on va nous interroger sur nos compétences techniques
-et en second lieu, les soft-skills.
+# Quels biais de recrutement dans le secteur Tech Freelance
 
-Les soft-skills sont important vis à vis du contexte, du client etc
+Les recruteurs peuvent-être amené à utiliser des sociétés de portage, il s'agit enfaite d'une plateforme<br>
+sur laquelle les freelances s'inscrivent afin de gagner en visibilité.<br>
 
-Quelqu'un sans soft-skills peut se voir un deal refusé avec la boîte de recrutement.
-
-Les tests techniques sont plus ou moins générique à base de coding game.
-
-Les boites de portages sont intéressantes en tant que freelance
-Ne pas hésiter à démarcher les tech-recruteurs sur les plateformes sur lesquelles ils bossent (CherryPick dans ce cas)
-
-BIEN REMPLIR LE CV
-
+Ils peuvent passé par des canaux plus large tel que LinkedIn par exemple.<br>
