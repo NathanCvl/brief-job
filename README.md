@@ -61,7 +61,6 @@ En outre, il doit être capable de s'assurer du bon fonctionnement des composant
 d'assurer l'aspect collaboratif avec les différents acteurs de la blockchain tels que : 
 
 - L'architecte Blockchain
-- L'ingénieur Blockchain
 - Le DevOps Blockchain
 
 L'architecte blockchain et le développeur blockchain peuvent être amené à travailler<br>
@@ -70,19 +69,13 @@ ensemble afin d'élaborer l'architecture la plus adaptée à la blockchain.<br>
 L'architecte est en charge de toute la partie conception de la blockchain ainsi que<br>
 d'apporter des solutions de sécurité adpatées à l'infrastructure de la blockchain<br>
 
-Il sera lui même amené à collaborer avec l'ingénieur blockchain.<br>
-
-L'ingénieur blockchain étant la version évoluée du développeur blockchain, ces derniers<br>
-seront amenés à collaborer ensemble tout au long de leur travail au sein de la blockchain<br>
-afin d'élaborer une blockchain fiable et optimisée.<br>
-
 Le DevOps (Developpeur Opérateur) blockchain et le développeur blockchain, sont eux aussi<br>
 amenés à collaborer tout au long du cycle de vie de la blockchain sur laquelle ils travaillent<br>
 car le DevOps à une place importante dans le développement de la blockchain, il sera à même<br>
 d'établir une liaison entre la partie développement de la blockchain et l'adaptabilité système<br>
 
 Il s'agit donc d'un élément très important qui sera amené à collaborer avec le développeur Blockchain<br>
-ainsi qu'avec l'ingénieur blockchain.<br>
+ainsi qu'avec le développeur blockchain.<br>
 
 # Les outils du Développeur Blockchain <a id='tools-developer'></a>
 
@@ -118,9 +111,7 @@ Aussi faire preuve de réactivité, afin de prévenir toute situation inatendue<
 
 # Les évolutions possible du Développeur Blockchain <a id='evolution-developer'></a>
 
-Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br>
-Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
-
+Le développeur blockchain peut devenir un Architecte Blockchain par la suite<br>
 
 # Architecte Logiciel<a id='architecte-logiciel'></a>
 
