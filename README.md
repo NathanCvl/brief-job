@@ -129,9 +129,9 @@ L'architecte logiciel, est responsable de :
 
 - Créer un guide technique global qui définit la technologie à utiliser. Les outils et les normes agissent comme un point fondamental pour la compréhension partagée du processus de développement
 
-- Aborder des aspects importants tels que les fonctionnalités, les performances, les évolutions ou limitations logiciels/techniques, sans occulter la sécurité pour la viabilité du projet
+- Aborder des aspects importants tels que les fonctionnalités, les performances, les évolutions ou limitations logicielles/techniques, sans occulter la sécurité pour la viabilité du projet
 
-Pour une communication efficace, l'architecte logiciel veillera à ce que le travail entre les intervenants et le personnel technique soient bien informés des décisions tout au long du cycle de prototypage.
+Pour une communication efficace, l'architecte logiciel veillera à ce que les travaux entre les intervenants et le personnel technique soient bien informés des décisions tout au long du cycle de prototypage.
 
 Il s'agira pour lui de créer un produit performant et réussi.
 
@@ -144,17 +144,17 @@ Les architectes logiciels possèdent généralement une expertise approfondie et
 
 Expérience technique intensive. Il est obligatoire pour un architecte d'avoir une maîtrise ou être ingénieur en informatique. 
 
-Une expérience solide composé de différents projets utilisant différentes technologies ou langages de programmation. Bien souvent, 5 à 10 ans d'expérience en programmation seront nécessaires pour devenir architecte logiciel.
+Une expérience solide composée de différents projets utilisant différentes technologies ou langages de programmation. Bien souvent, 5 à 10 ans d'expérience en programmation seront nécessaires pour devenir architecte logiciel.
 
-## Quels sont les traits de caractère / qualités nécessaire pour être un architecte logiciel
+## Quels sont les traits de caractère / qualités nécessaires pour être un architecte logiciel
 
-L'architecte logiciel devra se tenir au courant de la programmation et de ses évolutions, par exemple la nouvelle transation du Javascript en 2015. Il continuera bien évidement à écrire du code.
+L'architecte logiciel devra se tenir au courant de la programmation et de ses évolutions, par exemple la nouvelle transation du Javascript en 2015. Il continuera bien évidemment à écrire du code.
 
 Il convient de noter que la tâche la plus fréquente d'un architecte logiciel est de coder plutôt que de trouver une solution avec des concepts ou des diagrammes de haut niveau.
 
 ### Bon en communication.
 
-- Pour être un architecte logiciel performant, il est essentiel d'avoir des compétences en communication, car il est le maillon entre les diférentes entitées  techniques et commerciales.
+- Pour être un architecte logiciel performant, il est essentiel d'avoir des compétences en communication, car il est le maillon entre les diférentes entités techniques et commerciales.
 
 - Il doit aussi avoir la capacité de convertir des termes techniques en langage simple.
 
@@ -171,7 +171,7 @@ L’Architecte Logiciel travaille en étroite collaboration avec les devOps info
 Les missions de l’Architecte Logiciel sont diverses :
 
 - Audit et analyse de l’architecture existante et anticipation des risques
-- Conception de l’architecture logicielle au niveau fonctionnelle et technique en fonction des différents besoins exprimés
+- Conception de l’architecture logicielle aux niveaux fonctionnelle et technique en fonction des différents besoins exprimés
 - Contrôle de la cohérence entre la mise en œuvre effective et le modèle d’architecture préconisé
 - Rôle de conseiller sur les bonnes pratiques et le respect des méthodologies
 - Accompagner le client dans les décisions technologiques
