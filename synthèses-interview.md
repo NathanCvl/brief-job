@@ -38,3 +38,11 @@ et en second lieu, les soft-skills.
 Les soft-skills sont important vis à vis du contexte, du client etc
 
 Quelqu'un sans soft-skills peut se voir un deal refusé avec la boîte de recrutement.
+
+Les tests techniques sont plus ou moins générique à base de coding game.
+
+Les boites de portages sont intéressantes en tant que freelance
+Ne pas hésiter à démarcher les tech-recruteurs sur les plateformes sur lesquelles ils bossent (CherryPick dans ce cas)
+
+BIEN REMPLIR LE CV
+
