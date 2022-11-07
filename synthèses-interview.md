@@ -1,18 +1,21 @@
-En tant que tech recruteur ? 
+# Synthese de l'interview d'un Tech Recruiter
 
-Répondre le plus grossièrement possible au besoin du client
-Determiner le poste selon la mission :
-- Le prix selon profil
+- Quel est ton rôle en tant que Tech Recruiter ? <br>
+
+Le rôle du Tech Recruiter est d'établir le plus grossièrement possible la demande du client.<br>
+Il doit aussi determiner le profil à positionner sur la mission selon certains critères tels que :<br>
+
+- Le prix
 - Le profil du freelance
 
-Appel grosso modo le client 10 - 15 minutes, pour discuter de la mission, si les profils selectionnés par le tech sont
-intéressants, le freelance est positionné, à ce moment là, le tech recruteur envoi le CV du freelance
-Il peut y avoir 2 - 3 profils selectionnés par mission
+Une fois cette étape passée, le Tech Recruiter fait un compte rendu des profils potentiels pour remplir<br>
+la mission, il peut y avoir jusqu'à 4 profils selectionnés pour une mission.<br>
 
-Le client fait sa selection en fonction de ses besoins pour la mission
+Le client fait sa propre selection parmis les profils qui lui ont étés envoyés et fait passer des entretiens<br>
+aux personnes intéressantes pour accomplir cette mission.<br>
 
-IL y'a donc 2 voire maximum 3 entretiens par freelance, au bout d'un moment c'est prendre le risque que le freelance
-accepte une autre mission et donc de perdre le freelance.
+En général, il y'a 1 à 3 entretiens maximum par profil, car il est tout à fait possible qu'un candidat<br>
+se positionne sur une autre mission et donc de perdre le candidant.<br>
 
 Le tech recruteur est présent à l'entretien entre le freelance et le client pour comprendre
 pourquoi un entretient n'aboutit pas, afin de mieux comprendre la demande client
