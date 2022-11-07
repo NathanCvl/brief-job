@@ -1,6 +1,6 @@
 # Synthese de l'interview d'un Tech Recruiter
 
-- Quel est ton rôle en tant que Tech Recruiter ? <br>
+# Quel est le rôle d'un Tech Recruiter ? <br>
 
 Le rôle du Tech Recruiter est d'établir le plus grossièrement possible la demande du client.<br>
 Il doit aussi determiner le profil à positionner sur la mission selon certains critères tels que :<br>
