@@ -117,9 +117,7 @@ Le développeur blockchain peut devenir un ingénieur blockchain par la suite<br
 Ou bien encore un architecte blockchain, s'il a suffisamment d'expérience.<br>
 
 
-# l'Architect Logiciel <a id='architecte-logiciel'></a>
-
-# Architecte Logiciel
+# Architecte Logiciel<a id='architecte-logiciel'></a>
 
 C'est la personne qui prend les décisions critiques concernant la conception d'un système logiciel.
 
