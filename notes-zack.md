@@ -350,8 +350,6 @@ Il convient de noter que la tâche la plus fréquente d'un architecte logiciel e
 
 - Le travail d'un architecte logiciel consiste à encadrer et à coordonner des équipes techniques afin de les aider à promouvoir leur vision de la solution optimale. 
 
-Connaissances liées à un domaine d'activité spécifique. Ne pas avoir une compréhension approfondie d'un domaine spécifique serait difficile pour créer une architecture capable de gérer les problèmes de l'entreprise de manière plus efficace. Avoir une compréhension approfondie de la spécificité du domaine permet aux architectes logiciels non seulement de sélectionner les approches et les modèles les plus appropriés, mais également d'utiliser le même langage que les cadres de niveau C et les représentants commerciaux. En conséquence, cela aide les architectes logiciels à établir la confiance.
-
 ### Pour résumer
 
 L’Architecte Logiciel est un ingénieur expérimenté qui a pour objectif la création<br> ou l’évolution de l’architecture logicielle d’une organisation. Il se charge de recueillir les besoins des différentes parties prenantes <br>(développeurs, utilisateurs, clients, etc.), puis de synthétiser l’information<br> afin de proposer une architecture idéale pour le ou les logiciels demandés.
