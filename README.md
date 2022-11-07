@@ -6,7 +6,7 @@
     - <a href='#soft-skills-developer'>Les qualités requises pour être un bon Développeur Blockchain</a>
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
 - <a href='#architecte-logiciel'>Architecte Logiciel</a>
-- <a href='#competences-liees'> Quelles sont les compétences liées</a>
+    - <a href='#competences-liees'> Quelles sont les compétences liées</a>
 
 
 
