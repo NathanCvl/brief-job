@@ -202,7 +202,7 @@ Non, car il ne peut pas savoir tout faire et faire le travail de 2 personnes com
 - Choix des outils (Dernière technologie, software et hardware)
 - Organisation (possibilité de créer de nouvelle convention - Créateur bitcoin (Satochi Nakamoto), structure organisationnel plus souple)
 
-# Étape 3 - L’éthique 
+# Étape 3 - L’éthique  
 
 - **Y a-t-il des domaines dans lesquels vous refuseriez toujours de travailler ? Qui vont à l’encontre de vos principes / valeurs ? Par exemple :**
 
