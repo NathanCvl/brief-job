@@ -276,7 +276,7 @@ QUESTIONS?
 
 3. Quel est l'intêret de cette technolgie? XX
 Quel sont les softskills,
-Quels sont vos conseils à 
+Quels sont vos conseils à donner à un développeur Blockchain?
 
 4. Pourquoi s'être spécialisé dans la Blockchain, plus qu'une autre technologie? 
 
@@ -294,7 +294,7 @@ Quels sont vos conseils à
 
 11. Quels sont tes perspectives d'avenir, où te vois-tu dans 5-10 ans?
 
-Test git
+Test git 
 
 C'est quoi ta stack?
 
