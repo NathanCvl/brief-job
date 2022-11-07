@@ -202,7 +202,7 @@ Non, car il ne peut pas savoir tout faire et faire le travail de 2 personnes com
 - Choix des outils (Dernière technologie, software et hardware)
 - Organisation (possibilité de créer de nouvelle convention - Créateur bitcoin (Satochi Nakamoto), structure organisationnel plus souple)
 
-﻿# Comment postuler ?
+# Comment postuler ?
 
 ### Quelles sont les plateformes et les canaux ?
 
