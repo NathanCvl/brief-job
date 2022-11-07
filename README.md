@@ -7,6 +7,7 @@
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
 - <a href='#architecte-logiciel'>Architecte Logiciel</a>
     - <a href='#competences-liees'> Quelles sont les compétences liées</a>
+    - <a href='#qualites-necessaires'> Quels sont les traits de caractère / qualités nécessaires pour être un architecte logiciel</a>
 
 
 
@@ -150,7 +151,7 @@ Expérience technique intensive. Il est obligatoire pour un architecte d'avoir u
 
 Une expérience solide composée de différents projets utilisant différentes technologies ou langages de programmation. Bien souvent, 5 à 10 ans d'expérience en programmation seront nécessaires pour devenir architecte logiciel.
 
-## Quels sont les traits de caractère / qualités nécessaires pour être un architecte logiciel
+## Quels sont les traits de caractère / qualités nécessaires pour être un architecte logiciel <a id='qualites-necessaires'></a>
 
 L'architecte logiciel devra se tenir au courant de la programmation et de ses évolutions, par exemple la nouvelle transation du Javascript en 2015. Il continuera bien évidemment à écrire du code.
 
