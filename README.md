@@ -238,7 +238,7 @@ doit être abordé le projet, quels outils vous allez mettre en place et qui ser
 Pour travailler dans une start-up il faut être prêt à s'investir réellement dans son entreprise et s'avoir s'imposer<br>
 des contraintes personnelles.<br>
 
-### Le développeur Blockchain
+## Le développeur Blockchain
 
 Le développeur Blockchain peut-être attiré par une start-up orientée blockchain en raison du type d'entreprise dont il s'agit<br>
 ainsi que par la façon dont intéragissent les éléments humains au sein d'une start-up.<br>
