@@ -17,14 +17,24 @@ aux personnes intéressantes pour accomplir cette mission.<br>
 En général, il y'a 1 à 3 entretiens maximum par profil, car il est tout à fait possible qu'un candidat<br>
 se positionne sur une autre mission et donc de perdre le candidant.<br>
 
-Le tech recruteur est présent à l'entretien entre le freelance et le client pour comprendre
-pourquoi un entretient n'aboutit pas, afin de mieux comprendre la demande client
+Le Tech Recruiter sera présent lors des entretiens entre le candidat et le client afin d'identifier<br>
+les potentielles causes d'échec, de cette façons, il sera plus à même d'identifier les profils intéressants<br>
+pour le client.<br>
 
-En freelance le délai c'est à peu près 2 - 4 jours
+Lors d'un recrutement de candidat freelance, il est plus intéressant pour le client de recruter un profil<br>
+de Senior, car un Senior à déjà des compétences et sait les mettres en pratique, il n'est donc pas question<br>
+de monter en compétence, cela coûte potentiellement moins cher au client et la livraison est plus rapide.<br>
 
-Le freelance est intéressant en tant que Sénior pour le client de par son expérience et sa capacité
-à aller vite qui a déjà l'expérience, le junior freelance doit monter en compétence et c'est pas 
-intéressant pour le client.
+# Comment se déroulent les entretiens Junior 
+
+Lors d'un entretient freelance Junior, le Junior doit se présenter, montrer ce dont il est capable et ce qu'il<br>
+a déjà fait par le passé.<br>
+
+Il doit présenter ses expériences professionnelles s'il en a, les projets qu'il à été amené à réalisés tout au long<br>
+de son apprentissage (En cours ou en formation par exemple).<br>
+
+Dire quelles sont les technologies qu'il a utilisé, et combien de temps a t-il était sur les missions sur lesquelles<br>
+il a été amené à travailler.
 
 Les entretiens junior : 
 
