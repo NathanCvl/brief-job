@@ -6,6 +6,10 @@
     - <a href='#soft-skills-developer'>Les qualités requises pour être un bon Développeur Blockchain</a>
     - <a href='#evolution-developer'>Les évolutions possibles du Développeur Blockchain</a>
 - <a href='#architecte-logiciel'>Architecte Logiciel</a>
+- <a href='#competences-liees'> Quelles sont les compétences liées</a>
+
+
+
 - <a href='#fullstack'>Un FullStack compétent ces temps-ci ?</a>
 - <a href='#diff-ingeneer-developer'>Quelle est la différence entre un Ingénieur Logiciel et un Développeur</a>
 - <a href='#hardskills'>Est ce qu'avoir des compétences signifie être compétent</a>
@@ -136,7 +140,7 @@ Pour une communication efficace, l'architecte logiciel veillera à ce que les tr
 Il s'agira pour lui de créer un produit performant et réussi.
 
 
-## Quelles sont les compétences liées
+## Quelles sont les compétences liées <a id='competences-liees'></a>
 
 ### Compétences nécessaires et compétences requises d'un architecte logiciel
 
