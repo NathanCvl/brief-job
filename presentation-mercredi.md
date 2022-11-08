@@ -4,19 +4,16 @@ Introduction:
 - Présentation en anglais
   
 
-Nathan: 
+- Nathan: 
 
-
-- Sommaire
-
-  - Les métiers
-  
-  - Les types d'entreprise
-  - Comment postuler ?
-  - Interview d'un professionnel (Benjamin - blockchain)
-  - Le recrutement ( Nathan - recruteur tech )
-- Cybersec blockchain
-- Recrutement - interview d'un recruteur tech
+  - Sommaire
+    - Les métiers
+    - Les types d'entreprise
+    - Comment postuler ?
+    - Le recrutement ( Nathan - interview recruteur tech )
+    - Interview d'un professionnel (Benjamin - blockchain)
+  - Cybersec blockchain
+  - Recrutement - interview d'un recruteur tech
 
 </br>
 
@@ -28,9 +25,8 @@ Bastien:
   </br>
 Benjamin:
 
-- C'est quoi la blockchain.
-- développeur blockchain.
-- Compétences dev blockchain.
+- Intro blockchain.
+- Metier de Developper Blockchain (quels compétentences + quels qualités).
 - Interview professionel blockchain
   
   </br>
@@ -38,7 +34,6 @@ Benjamin:
 Zack:
 
 - Architecte blockchain
-
 - comment postuler
 - freelancing 
  
