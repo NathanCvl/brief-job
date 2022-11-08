@@ -305,7 +305,7 @@ OpenSource sur GitHub par exemple, le personal branding est un côté important 
 # Que vous inspirent ces mots : 
 
 - maitriser : 
-    La maitrise est le fait de maitriser un sujet, c'est à dire en maitriser les aspects importants.
+    La maitrise est le fait de connaitre dans les détails un sujet.
 - expert :
     Être expert signifie maitriser tous les aspects du domaine dont on est expert.
 - compétent : 
