@@ -28,8 +28,6 @@ Bastien:
   </br>
 Benjamin:
 
-</br>
-
 - C'est quoi la blockchain.
 - développeur blockchain.
 - Compétences dev blockchain.
