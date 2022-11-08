@@ -1,40 +1,52 @@
  # Métier de la blockchain
 
-- Nathan: 
+Introduction:
+- Présentation en anglais
+  
 
-  - introduction
-  - Sommaire
-    - Les métiers
-    - Les types d'entreprise
-    - Comment postuler ?
-    - Interview d'un professionnel (Benjamin - blockchain)
-    - Le recrutement ( Nathan - recruteur tech )
-  - Cybersec blockchain
-  - Recrutement - interview d'un recruteur tech
+Nathan: 
+
+
+- Sommaire
+
+  - Les métiers
+  
+  - Les types d'entreprise
+  - Comment postuler ?
+  - Interview d'un professionnel (Benjamin - blockchain)
+  - Le recrutement ( Nathan - recruteur tech )
+- Cybersec blockchain
+- Recrutement - interview d'un recruteur tech
 
 </br>
 
-- Bastien: 
+Bastien: 
 
-  - Data analyst
-  - Startup
+- Data analyst
+- Startup
   
   </br>
-- Benjamin: 
+Benjamin:
 
-  - C'est quoi la blockchain.
-  - développeur blockchain.
-  - Compétences dev blockchain.
-  - Interview professionel blockchain
+</br>
+
+- C'est quoi la blockchain.
+- développeur blockchain.
+- Compétences dev blockchain.
+- Interview professionel blockchain
   
   </br>
 
-- Zack
-  - Architecte blockchain
-  - comment postuler
-  - freelancing
+Zack:
 
+- Architecte blockchain
+
+- comment postuler
+- freelancing 
+ 
 
 Ethique:
+
 - Publique
-- Sondage en ligne ( Kahoot )
+
+- Sondage en ligne sur l'éthique ( fin )
