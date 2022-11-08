@@ -5,7 +5,7 @@ et de savoir les mettres en oeuvre, il peut être autodidacte, tant qu'il peut �
 il est intéressant.<br>
 
 A l'heure actuelle, un développeur Blockchain en freelance sachant développer des smarts contracts en Rust<br>
-et ayant sur son profil LinkedIn une ligne le notifiant, il sera très demandé en entretient.<br>
+et ayant sur son profil LinkedIn une ligne le notifiant, sera très demandé en entretient.<br>
 Il ne lui reste plus qu'à réussir son entretient afin d'obtenir sa mission
 
 Dans l'univers de la blockchain, tout est accessible et open-source, ça peut être un bon moyen<br>
