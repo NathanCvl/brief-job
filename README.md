@@ -301,3 +301,19 @@ de prendre ça en compte lorsque vous naviguez sur Internet, afin de maitriser l
 Et de travailler efficacement son 'Personnal Branding' (Faire de son nom une marque), si vous êtes à la recherche<br>
 d'un emploi dans le monde du développement, il peut-être intéressant de faire apparaitre votre identité dans des projets<br>
 OpenSource sur GitHub par exemple, le personal branding est un côté important de la recherche d'emploi sur Internet.<br>
+
+# Que vous inspirent ces mots : 
+
+- maitriser : 
+    La maitrise est le fait de maitriser un sujet, c'est à dire en maitriser les aspects importants.
+- expert :
+    Être expert signifie maitriser tous les aspects du domaine dont on est expert.
+- compétent : 
+    Quelqu'un de compétent est quelqu'un qui à un eventail assez large de compétence dans un domaine et qui est
+    en messure de les mettres en oeuvre.
+- spécialisé :
+    Être spécialisé signifie maitriser chaque aspects importants dans un domaine bien spécifique.
+- efficace :
+    Quelqu'un d'efficace est quelqu'un de productif qui est en capacité de resoudre les tâches dont il a la charge
+- efficient :
+    Au même titre que quelqu'un d'efficace, quelqu'un d'efficient est quelqu'un étant en capacité de resoudre les tâches dont il a la charge à la difference que quelqu'un d'efficient fera le maximum d'effort pour ne pas avoir à en faire.
